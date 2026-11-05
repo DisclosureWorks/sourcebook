@@ -1,0 +1,16 @@
+# DisclosureWorks Sourcebook
+
+The DisclosureWorks Sourcebook is an immutable public research collection, edition 2026-11, with machine-readable objects, links, heading chunks, schemas, and checksums.
+
+## Core
+
+- [Latest edition index](/latest/)
+- [Edition manifest](/editions/2026-11/manifest.json)
+- [Objects JSONL](/editions/2026-11/objects.jsonl)
+- [Links JSONL](/editions/2026-11/links.jsonl)
+- [Chunks JSONL](/editions/2026-11/chunks.jsonl)
+- [Manifest schema](/manifest.schema.json)
+- [Object schema](/objects.schema.json)
+- [Link schema](/links.schema.json)
+- [Chunk schema](/chunks.schema.json)
+- [Agent ingest guidance](/agent-ingest.md)

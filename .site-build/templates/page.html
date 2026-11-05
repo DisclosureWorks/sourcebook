@@ -5,13 +5,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>$title$$if(title-suffix)$ — $site-title$$endif$</title>
   <link rel="canonical" href="$canonical-url$">
+  <link rel="icon" href="/favicon.ico" sizes="32x32">
+  <link rel="icon" href="/assets/brand/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png">
+$if(preload-fonts)$
+  <link rel="preload" href="/assets/fonts/source-serif-4/SourceSerif4-Regular.ttf.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/source-sans-3/SourceSans3-Regular.ttf.woff2" as="font" type="font/woff2" crossorigin>
+$endif$
   <link rel="stylesheet" href="/assets/site.css">
+$if(has-feed)$
+  <link rel="alternate" type="application/atom+xml" title="New editions" href="/feed.xml">
+$endif$
 </head>
 <body>
   <a class="skip-link" href="#content">Skip to content</a>
   <header class="site-header">
     <div class="header-inner">
-      <a class="site-title" href="/">$site-title$</a>
+      <a class="site-title" href="/"><picture><source srcset="/assets/brand/disclosureworks-wordmark-horizontal-dark.svg" media="(prefers-color-scheme: dark)"><img class="site-wordmark" src="/assets/brand/disclosureworks-wordmark-horizontal-light.svg" alt="Disclosure Works" width="185" height="26"></picture><span class="site-section">$section-label$</span></a>
 $if(edition-label)$
       <span class="edition-label">Edition $edition-label$</span>
 $endif$
@@ -46,13 +56,21 @@ $body$
     <p>$site-title$</p>
     <p>
 $if(has-license)$
-      <a href="/LICENSE">License</a>
+      <a href="$if(html-license)$/license/$else$/LICENSE$endif$">License</a>
 $endif$
 $if(has-license)$$if(has-citation)$
       <span aria-hidden="true"> · </span>
 $endif$$endif$
 $if(has-citation)$
       <a href="/CITATION/">Citation guidance</a>
+$endif$
+$if(has-contact)$
+$if(has-citation)$
+      <span aria-hidden="true"> · </span>
+$else$$if(has-license)$
+      <span aria-hidden="true"> · </span>
+$endif$$endif$
+      <a href="https://disclosureworks.ai/contact/">Contact</a>
 $endif$
     </p>
   </footer>

@@ -1,0 +1,2356 @@
+{
+  "approvals": {
+    "count": 102,
+    "hash": "38da38689bd478e43842d2eee220977d8881ab977980b289ef4213e029344e41",
+    "pages": [
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-00620a36a59440ff6fb07639139cbe1c0ff5570c2eb096cacb488661d590517c"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-01ddbdf46d2d12ac962e38e57c964bec9fb88d63ec48c12d04fd0604805944e3"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-02330b40bfb237f2f1fefc9f9003c284214db6598addcc8bf005354337ccc19b"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-030885beb2bad9dcb8e273d9251f7c1aa7d3bbc0f7911080016499eec7ea3714"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-0446b9e969c5f0a9972f0039d70993cc3c8781967fcfb363675b709bb1b66c0f"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-07a90bdc21a8ec30bd9dbc79bce1fc1fc5847350970916ef9ab9abcd9a8f13ff"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-07fa7a20a125fd1c18eca9bd3107776ee14895002a4b6a51f0580b5134900798"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-0e373e0aeb8cea9b1c722070913ac8e67973bc119cf2700b6e6b79d16fef955e"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-0ed32bbe578b98e7f1357e289be0fd9f04398c855ce8c539d27cc87ebd3c07ef"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-0f307feab3ddfda836d85d9f453ce4a306b2f73fc243cec5b26b3439087863f5"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-11ce54ab8e5313ea5d7eb90765c51a306ac32ec0e629a08ae95479fb3ba06e67"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-122d87e714caa75f3518a5c3e151281d933d52840552af42999cbc771fd64b7e"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-1453d3f0ac3b7625350d5027ed114b877d8bf617c9c59f32635f5554cb86aa05"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-166513eaa24763532c82596d521fef7e53419474ea90aab6295d8058d85d29ed"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-1cd9fb4e34fc3c98f694c08e5afc308dc9aa0f545c36cf1529cc049a96cb997a"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-1ed123f0b1b3e7febfca57db46ded3bce48f88dcdc5a143069823dca13b83b91"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-20f37534162bdbffa86714d1f40ef633eb5f92724321bbf4b7abb6d8cedc208a"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-25d08952a4eb205f3b2d1eafae3343439ffe2d26b98801dacaea6d7dffb788d7"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-26a663e4325416ed9e23bd12d898198f31b961268d2635860f2c032c5cf97620"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-273f511a70ee65148b5de2dc0bfc90677a8dfef583ffe4ee71e10bacfc7b20c9"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-27921b10cb3cdde5dc90a6846d7d74b734dcb0c276d434b5ccbfd41bab9a4381"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-27a5255e75c8b7189218433d8640b0342bd1ed7114879ef40fa55ef4f56006a8"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-2a344adb9a20f49e51805f89cc3d118e47408e53e0804de6f9543bd675f00c90"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-2c308c28e3f2c0f9c43e146a277010abcd9a074db6632d017c194108623f8a92"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-30bc4b0b0f0c7279f69bf65e304fda98ae6cce298929c1b88cd85d4b90a32123"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-3214b3fd9d743688bf0adc0ef3a889977024f38285d1c2ff48aa6b3b5fb797b5"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-33d376918108c69936a97ead8329d02836b184e1d884675d2566b85a62eeb434"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-351bd49e59099224f4e9cb3f814f118b3e5392d503c606823af6809990960242"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-36c083b283db9e680f9e84e42dfb601f1ab597e2917677d83740c92ba645b909"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-38bc98b898c98ef9ad8ab5081f8a7a6444bc0d2c672ea01916635d9b14985ce3"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-3c1bc732e65dc120c33d5bf82f0bebf2f7870d8d52163cdcfbd00bfe59daa24d"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-3cee46f0f254385b38ab1371fce94564b7b27efb476226fa76e73501b12a833d"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-45697e7c48302414e23da6a9509751d50ea8c9390b5a2139c1296c39eeade41e"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-45f2f1e6f0d0a8c6396c56b715599f8df7f8ebfb2d274c972e9037895eb1f59c"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-4d6792d063d36a8dd1df44c0d64a2d384b23f3d889361380aa5486cd17c974ab"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-4e02d23c7ed2209d0812ba27e338faacdceab754118a1bfa4073f495adf79a77"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-50ced1a06bfa4c7969afbb7aac40c27be2d91cf2d5431ddb111ab0411cc33e08"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-569e4baa6fc87b15c162b6e5cebd20ed9d54ca8e4845580c099e010a730a8060"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-57fbb56c98455e69a6a52b3b6c5a4fff423bc09eb5ac43701cbee952f9162362"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-58e2263a862ef105fe8cad51e6a772eeade53b95d0890e23ad597ab30d584d1c"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-66cdd8443ab6cb5a8313b378422f4b1137d81259c4061ec94a815378b253978d"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-6b3e2e394404f23b3bdeb691ce46aed6c28ec4ad89e89ca290af3bbea01eb492"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-6bf7a2b33962334bedf554eb4a6d2de104fc5a6765652be5fcae804f98326c20"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-6ec21ac8a08d3f484e5216e1e7c3605cb8324203dcde68130a20ce5ff59b682d"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-703982ce39b3c2b6d60fdfdf3f70a5b251883bd8350012ce48e492e28119857a"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-706166c0f6450e742804b4f15f790efd112649d5c7724f4ab54b4298de2ff6ca"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-738c87f0e4eb092ad2ff0b9551d6d417329b07c0ff37724f2e92d59b59859d92"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-75886090097f6c8df2c1641c4c7e4f7cc83699200fe47e3040f272d76b55af15"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-76b041da47fbedd18a3c99347dc38ca7b7ea0b0ba8334d2f8320a1cfaeac34df"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-7a499bd3c9efb75539c2019a7fc30f92ee7e42c7d526b3a35d800f4edc9fb49a"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-7c61a63bbacdfc1efb017c2c6f84ea7e21fa492d3575575aaa8f7821f8f95a30"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-8010d880a5ec95c5a5a2aebe54d1e4acf99e7510df45f5c6096ed3146dae0ca5"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-84a79dcd6284504dae1690a77238e4aa6b6fa9d634832a263f8489d330d3175e"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-861bb8d1da8b2c70d0fbb712e0335b338f1c0dd19d9490a41772ec37a36a3af8"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-8641f156c34ab490b11696067ce85ef69c23561dbc13b946ee81cc548bed4e35"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-879ce31c2fddd7e7f4c07a1363b8386dd3f89fff53e5ac6c79ac91affb6dd996"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-8af426c9a4a0396450e125732e0a2da1687d8ba04d8e6caf16c17ce9e8566559"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-90716c8fb83eb662b41a3c6e8193378b59b8e6882f5fd5bd01204d21a3cef330"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-91b3b73bb74eb0bc1e5686c2a190dfae60edd66f7d6383ae94895d75d6734366"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-93cbbe463cedd0f46366c946b5a7b8e0aad0184ade12c9d0f1ee61a3325e784a"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-99b093eadc82503e84cb6354f66a06dcdcbaf266ab8f8f7bd1a3721416185d45"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-9c1fe96c73992632ea790ba69cdc74c13d50fee2a20fbd78e7e337336363728e"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-a087bcd6b03cf10c1c39aaa232672b7bcbc964f20789baa0768b2566ea7a8896"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-a4693dbcf94d5f79e97ea3912dc911bb0bae48d5bfc98ff00b51ae6216fac35d"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-a56d8dc86d0bef33ca10472f94853639380d5dddc8daeda970f16484a652cc5f"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-a5a49041ac263fa109c563cdaa40f6ebc2fd5d5911dc4ee16598f309d4500c8d"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-a95c59b4815ecd541267d52ed6bb879fcd3e08d973293fe1a259d89a71df08b8"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-aa29cadea7415df01450c05b9627d3b55815ffa58651f13103fe7705f0f35a44"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-b0e5584e58ab9a7887b18fcbc0c84e4461cb8fb09c67ecba3e28655cad6030a1"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-b46a60b395075278b71586345ec49652a297e0f75ecc3f20e9713bb47d4510fe"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-b47729ad13a71820f5d8d998b96c881cd27321382a6261a5ebee526c6563e119"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-b49af3bff7d0a13d896a9991017ccca6591f073c4ffc9bc6695182193cd52f17"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-ba0864ef2c3382b1d49623dabc1f304edce8f13c791c4c7842eca567dd150e12"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-bb294025546bf266f2d292eca269078064a463c350ef580318943399097bff53"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-bbd7f288a700c578c6c96a43089b174867a0d7d6dbea5dcadf54feb0054f6fa1"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-bcfb3e6b3703331f6d33384aab4c8dfd0a93cd5be140e7928c99c2a0863667d5"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-beb99cc33c9d9ccd6310733c2a35033977240de92ce03a5911490173d4fa63a9"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-c36f9ea75c06c0eb4f5a35e884bc531c0e02df2cbd05de18898e4b15ec78816f"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-c3d52c8c6f8c310282d1e2a875c77e973f3b5d9dc42c95b0774b156429630a38"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-c5731fdf908c1f0f5b91a7b7aa4ad2f00890dcb7f96b2ba042a4e63b50a9a819"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-c6c36087a82eb0661e908f8fa2fb324a23b863415b576818a06c3bec3c3432d1"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-c6ea4179be1638fec69ac95ba37198b8347565b3bca675d9d1ff6892d631ed21"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-cd4dee92a43af6af81b80dcbad4df8dec45843e01056a99e028dc2a6cddb4720"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-d01c7891da2cd1b01946d2337151249dd45cd30e47f1299af098f742966344d3"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-d151e008a67cac21e1402ad8a19dc3fbc25ff7f39c3c310975e615604d3afa41"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-d15b74ff41ca244540c5c7124caeedc0b9af651a0d7a5c926eadefaa5bc4645c"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-d2b4fcd56933d9ad31fb8ea17bf84613025de659b982bbe858f50a173ead9f9a"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-d3038e9d5d7c3224be9ef3d59fa2e6f238a6966e3093856534d8ce1d3631a454"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-d96435dc573bddd66705ad8a23737720bc56d00efe328b69dc6c92ab517eac65"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-d9be6c56b108cc8b4e95c3e4dc25fb6ad49268fec372ddf92b6559048f719e95"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-defa3ea2412eecbce2c4ebc27abf1de9d29d01b0b1e347e8bf0f8a766b715b6e"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-e19565a32ce0b3775b2ab13bc91c29a1c384c64c47dd81ee039091863d7a072c"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-e457116824f85a53eed7b82aba6dd27eb64a8bd414cdd70e77d2da7bae9d5db2"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-e5c32f94b85f134063687213d85ffcf09990bf54b44b0cc3c9c0e12b74e39f20"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-e70d52a1647be5649d9b32db02fbfcbdc2224b482d6bd88cd958de9bb50cd901"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-e89fe373b22fc6099fdd0cb85932b8934cfa12d4879c726b8aeaaa722da8f7c6"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-efa89019606c27a40edcddf139f7c06d80c404836a79dd6b57a3f60ee84380d4"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-efc6ec3160868faad33319f4fa2e150764b247ce0d21f0db6d693eae43cc1c7c"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-f05ca8e1ac4d32fc77166ffb8b6002cfb8caed96fd927e3056486d975b4de05a"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-fc3465adda7a3213e6919994a17aed9cb17401f216256c0a9f065ee2e89935c3"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-fdb84220bf71c9f3afc1b707325e69b856d492cdbe4f4025671953dc8c45a420"
+      },
+      {
+        "approved_at": "2026-11-01T15:57:02Z",
+        "public_id": "atlas-fe2fc14544fe627ae724e142b0da58537169218f8133e6e9a209c20bc2d163f2"
+      }
+    ]
+  },
+  "approvals_hash": "38da38689bd478e43842d2eee220977d8881ab977980b289ef4213e029344e41",
+  "component_versions": {
+    "atlas_assemble": "3.0.0",
+    "exporter": "10.5.7",
+    "release_build": "2.0.0"
+  },
+  "corrections": {
+    "patch_root": "/editions/2026-11-patch-N/",
+    "policy": "/corrections-removal/"
+  },
+  "counts": {
+    "candidates": 102,
+    "excluded": 0,
+    "passed": 102,
+    "published": 102
+  },
+  "edition": "2026-11",
+  "exclusions": [],
+  "format": 3,
+  "package": {
+    "archive": {
+      "path": "editions/2026-11/atlas-2026-11.tar.gz",
+      "sha256": "12eeefa0011bfa19f7c194bb661a6040be146a9052182d927edd6764dcfc61b5"
+    },
+    "checksums": {
+      "path": "editions/2026-11/SHA256SUMS",
+      "sha256": "d472ebdb20ee235dce9755c60ea768201725c45b1e082244308d1a2d82441690"
+    },
+    "chunks": {
+      "path": "editions/2026-11/chunks.jsonl",
+      "sha256": "4bb3ffda46eebaaf13bd2dde848e44c29bf3feb910621acc41f623a6fb5c57d2"
+    },
+    "links": {
+      "path": "editions/2026-11/links.jsonl",
+      "sha256": "8dce7803e7e874f6b0ce6b31ee46149c6e0fb8e3a6d80f21daf1f675c2c8d31c"
+    },
+    "objects": {
+      "path": "editions/2026-11/objects.jsonl",
+      "sha256": "1692b4431a53cd4fa52d94778e06ea0d18c87a3642ee0b503553087968d163ad"
+    }
+  },
+  "pages": [
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive. Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-00620a36a59440ff6fb07639139cbe1c0ff5570c2eb096cacb488661d590517c.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-00620a36a59440ff6fb07639139cbe1c0ff5570c2eb096cacb488661d590517c",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "6cd1af76b07792b0bca55b76d27956b3860ea7371477a356d2ba9b9f79bac437",
+      "source_content_hash": "34eded3286d27e038ae4b8e1af70498f02547cf5c65e9af6fc401ed11a2ad2e1",
+      "title": "Degem Computers",
+      "topics": [
+        "intelligence/published-accounts"
+      ],
+      "url": "/editions/2026-11/atlas-00620a36a59440ff6fb07639139cbe1c0ff5570c2eb096cacb488661d590517c/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-01ddbdf46d2d12ac962e38e57c964bec9fb88d63ec48c12d04fd0604805944e3.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-01ddbdf46d2d12ac962e38e57c964bec9fb88d63ec48c12d04fd0604805944e3",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "c2bec32d2ef4c23b8cc7436db3ed0eb8702fa1fc3b0130b14da1262a240ddb31",
+      "source_content_hash": "4264d4362fe511915e829b17f10e237911e28678fbe747d0a7a2ffd8eb9d84c7",
+      "title": "Intelligence Authorization Act of 1991",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-11/atlas-01ddbdf46d2d12ac962e38e57c964bec9fb88d63ec48c12d04fd0604805944e3/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-02330b40bfb237f2f1fefc9f9003c284214db6598addcc8bf005354337ccc19b.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-02330b40bfb237f2f1fefc9f9003c284214db6598addcc8bf005354337ccc19b",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "7db793aabeae5a0bd683cab5489e92e404edabe8f2fa526af94cb1e3a0a3e253",
+      "source_content_hash": "9f01413306bf73d3724ddb4b6dfa5f71362eac3393041793dc1490502be4e938",
+      "title": "Reputational Laundering",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-02330b40bfb237f2f1fefc9f9003c284214db6598addcc8bf005354337ccc19b/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-030885beb2bad9dcb8e273d9251f7c1aa7d3bbc0f7911080016499eec7ea3714.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-030885beb2bad9dcb8e273d9251f7c1aa7d3bbc0f7911080016499eec7ea3714",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "8c9cc142f90dbd9f6acc228d24b9356ad4d79df6276d035ce32b779708694822",
+      "source_content_hash": "3bbdfb4a2d2b28aefe61baeff965c99fb76c7844599abd9837d4827b96ee9ca4",
+      "title": "Suspected Epstein Financial Offenses",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-030885beb2bad9dcb8e273d9251f7c1aa7d3bbc0f7911080016499eec7ea3714/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-0446b9e969c5f0a9972f0039d70993cc3c8781967fcfb363675b709bb1b66c0f.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-0446b9e969c5f0a9972f0039d70993cc3c8781967fcfb363675b709bb1b66c0f",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "e285024a1a1931d714ae2837c93443b46bad08ba026f90bb5aa86e4ea00a595c",
+      "source_content_hash": "b3390114710b09df5f37fc1d1f888189e8133046fb90f5fd357dc76ec82c8760",
+      "title": "Epstein Files Transparency Act",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-11/atlas-0446b9e969c5f0a9972f0039d70993cc3c8781967fcfb363675b709bb1b66c0f/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": {
+        "assessed": "2026-10-19",
+        "basis": [
+          "[[sources/administration-white-paper-bulk-telephony-2013]]",
+          "[[sources/pclob-section-215-report-2014]]",
+          "[[sources/smith-v-maryland-1979]]"
+        ],
+        "change_record": "",
+        "conclusion": "The government's constitutional defense of the Section 215 bulk-telephony program rested on the third-party doctrine of United States v. Miller (1976) and Smith v. Maryland (1979).",
+        "confidence": "high",
+        "corroboration": "partial",
+        "counterargument": "The government also argued that even if collection were a search it would be reasonable, so the third-party doctrine was one of two defenses rather than the one the defense rested on.",
+        "response": "The white paper leads its Fourth Amendment section with Smith and gives the reasonableness argument, made 'even if one were to assume arguendo' a search, a shorter paragraph that follows it. The independent PCLOB called Smith the lynchpin of the government's rationale, and the FISA Court's August 2013 opinion (not held here) said the question is 'squarely controlled' by Smith. A fallback argument does not change which doctrine carried the defense.",
+        "source_tier": "primary-multiple",
+        "wep": "VERY LIKELY",
+        "would_revise": [
+          "To LIKELY if the Administration white paper's Fourth Amendment section (Part III.A, printed pp. 19-21) is shown to rest the program's constitutionality mainly on a ground other than Smith, such as reasonableness balancing."
+        ]
+      },
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-07a90bdc21a8ec30bd9dbc79bce1fc1fc5847350970916ef9ab9abcd9a8f13ff.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-07a90bdc21a8ec30bd9dbc79bce1fc1fc5847350970916ef9ab9abcd9a8f13ff",
+      "reference_status": "assessed",
+      "rights": "CC BY 4.0",
+      "sha256": "f30456652123671033a063b7fc18237c04906544615405beb0eaf534e6eb468b",
+      "source_content_hash": "9f1bd47b7c3f722a785a51cb7c210a56a833d3804f9a9d7736c486a03b9934d5",
+      "title": "Reasonable Expectation of Privacy",
+      "topics": [
+        "oversight/surveillance-law"
+      ],
+      "url": "/editions/2026-11/atlas-07a90bdc21a8ec30bd9dbc79bce1fc1fc5847350970916ef9ab9abcd9a8f13ff/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive. Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-07fa7a20a125fd1c18eca9bd3107776ee14895002a4b6a51f0580b5134900798.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-07fa7a20a125fd1c18eca9bd3107776ee14895002a4b6a51f0580b5134900798",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "1d553b3cc41b50e9860ac67e2528c153ef6f98c4d71c3ca308aa090ae961be2f",
+      "source_content_hash": "0e8d5cbf0d4fe219392a3742e089cbd8566a18545f931571ade2b7845fcb144c",
+      "title": "Blue Pipeline",
+      "topics": [
+        "intelligence/published-accounts"
+      ],
+      "url": "/editions/2026-11/atlas-07fa7a20a125fd1c18eca9bd3107776ee14895002a4b6a51f0580b5134900798/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive. Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-0e373e0aeb8cea9b1c722070913ac8e67973bc119cf2700b6e6b79d16fef955e.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-0e373e0aeb8cea9b1c722070913ac8e67973bc119cf2700b6e6b79d16fef955e",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "eecf238997f8ac5d3b89f2bc495971334e03bece4e6fc6ea74b73d25258cd3d3",
+      "source_content_hash": "def5ebd997c8f29d73a535bd5a029b1eb6746e1baa70b6edc6fb2c2bb736b686",
+      "title": "Hamas-for-PLO Doctrine",
+      "topics": [
+        "intelligence/published-accounts"
+      ],
+      "url": "/editions/2026-11/atlas-0e373e0aeb8cea9b1c722070913ac8e67973bc119cf2700b6e6b79d16fef955e/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-0ed32bbe578b98e7f1357e289be0fd9f04398c855ce8c539d27cc87ebd3c07ef.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-0ed32bbe578b98e7f1357e289be0fd9f04398c855ce8c539d27cc87ebd3c07ef",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "0d1e09b74171477e532a5ef7ca182872dd1789b103b6df8553da5f7d716f25af",
+      "source_content_hash": "494f8945cb3aa68f32b6e53103ede2673d3c3a812c60df4e614bb6265466dee2",
+      "title": "Lolita Express",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-0ed32bbe578b98e7f1357e289be0fd9f04398c855ce8c539d27cc87ebd3c07ef/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-0f307feab3ddfda836d85d9f453ce4a306b2f73fc243cec5b26b3439087863f5.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-0f307feab3ddfda836d85d9f453ce4a306b2f73fc243cec5b26b3439087863f5",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "0c19b28722bd13467e872098e6d3aecaa03fc67fd1016b704b3f0d50218e7f75",
+      "source_content_hash": "4e71a9421ea24d969269b14acfee737d2a6ea08329ab24d2f28907f918d2edba",
+      "title": "Black-Epstein Advisory Relationship",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-0f307feab3ddfda836d85d9f453ce4a306b2f73fc243cec5b26b3439087863f5/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-11ce54ab8e5313ea5d7eb90765c51a306ac32ec0e629a08ae95479fb3ba06e67.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-11ce54ab8e5313ea5d7eb90765c51a306ac32ec0e629a08ae95479fb3ba06e67",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "01a62793c3d954094775fcb16693a54e5d29aac9d10562cd035e9f14268d236f",
+      "source_content_hash": "800ebb1475cabccdf2730f8bcb1cf5a393c1b5daf152a526c34211c878ec7ba5",
+      "title": "President's Intelligence Oversight Board",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-11/atlas-11ce54ab8e5313ea5d7eb90765c51a306ac32ec0e629a08ae95479fb3ba06e67/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive. Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-122d87e714caa75f3518a5c3e151281d933d52840552af42999cbc771fd64b7e.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-122d87e714caa75f3518a5c3e151281d933d52840552af42999cbc771fd64b7e",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "65fa867459e41dc69c45fe736f9ebe09bd0f26c842801e59b51f973ad0da7617",
+      "source_content_hash": "f47ec92a211d79cad5cfb5b96417b19bd712784c3bf9322b807cfccc0ed064e7",
+      "title": "Operation Midnight Climax",
+      "topics": [
+        "epstein/historical-precursors",
+        "intelligence/us-programs"
+      ],
+      "url": "/editions/2026-11/atlas-122d87e714caa75f3518a5c3e151281d933d52840552af42999cbc771fd64b7e/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-1453d3f0ac3b7625350d5027ed114b877d8bf617c9c59f32635f5554cb86aa05.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-1453d3f0ac3b7625350d5027ed114b877d8bf617c9c59f32635f5554cb86aa05",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "557ad42296ed8532e06410d98262fab7035789b45740e31d69d93f0755d4c2e9",
+      "source_content_hash": "606a292cd2e0d2f8c1b7cf9b1179ec4b1891b56824953a71101ef8f64a97eeca",
+      "title": "Executive Power in Foreign Affairs",
+      "topics": [
+        "oversight/executive-power"
+      ],
+      "url": "/editions/2026-11/atlas-1453d3f0ac3b7625350d5027ed114b877d8bf617c9c59f32635f5554cb86aa05/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-166513eaa24763532c82596d521fef7e53419474ea90aab6295d8058d85d29ed.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-166513eaa24763532c82596d521fef7e53419474ea90aab6295d8058d85d29ed",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "03664a5ef21f57db4d0a6b9c694f785a31c11498b8b394717bd5f877d4687f85",
+      "source_content_hash": "94d9e7adf1c3e621ed3df1d7936e97a5f196aae021add2ea781fe16bb2a6b2db",
+      "title": "CIA Domestic Surveillance",
+      "topics": [
+        "oversight/investigations-1975",
+        "intelligence/us-programs"
+      ],
+      "url": "/editions/2026-11/atlas-166513eaa24763532c82596d521fef7e53419474ea90aab6295d8058d85d29ed/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive. Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-1cd9fb4e34fc3c98f694c08e5afc308dc9aa0f545c36cf1529cc049a96cb997a.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-1cd9fb4e34fc3c98f694c08e5afc308dc9aa0f545c36cf1529cc049a96cb997a",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "2fcf395081f72be884f6cabf0b6f4d2688f7879fb1c35927abdbbe7d03656bba",
+      "source_content_hash": "11846e4bb4eed7aad9490bb817b539863f1d695543986794674614154f300064",
+      "title": "Mena Operations",
+      "topics": [
+        "epstein/historical-precursors"
+      ],
+      "url": "/editions/2026-11/atlas-1cd9fb4e34fc3c98f694c08e5afc308dc9aa0f545c36cf1529cc049a96cb997a/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-1ed123f0b1b3e7febfca57db46ded3bce48f88dcdc5a143069823dca13b83b91.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-1ed123f0b1b3e7febfca57db46ded3bce48f88dcdc5a143069823dca13b83b91",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "45f11b54f6297fc24cc70227acd5b1cd6c535a685e4727ee32fbb72968d90ce4",
+      "source_content_hash": "6628352c40df0d16a9d5fe544b9b6f6140946e76505580b9824ca211f9daa907",
+      "title": "Limited Notification as Inoculation",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-11/atlas-1ed123f0b1b3e7febfca57db46ded3bce48f88dcdc5a143069823dca13b83b91/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-20f37534162bdbffa86714d1f40ef633eb5f92724321bbf4b7abb6d8cedc208a.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-20f37534162bdbffa86714d1f40ef633eb5f92724321bbf4b7abb6d8cedc208a",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "4a1d58ed46ef8a5b4a3ef560d2e9a860965c912fd4c3adae99bf8b312c09cd14",
+      "source_content_hash": "07c85cd4da80ff33e4602c9386805ca65f9628a9c92ddcddbffe8e3693d0fa4b",
+      "title": "Covert Action",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-20f37534162bdbffa86714d1f40ef633eb5f92724321bbf4b7abb6d8cedc208a/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-25d08952a4eb205f3b2d1eafae3343439ffe2d26b98801dacaea6d7dffb788d7.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-25d08952a4eb205f3b2d1eafae3343439ffe2d26b98801dacaea6d7dffb788d7",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "12282e6dbfe76907fa67511fba2461c446ac419b1a720aed41d4ceb4f2be3747",
+      "source_content_hash": "0bbf2087e89d7690d5cce8639ad842ee031f96701bdb0ecd5a27d8831e9fbcab",
+      "title": "SAR Failure",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-25d08952a4eb205f3b2d1eafae3343439ffe2d26b98801dacaea6d7dffb788d7/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-26a663e4325416ed9e23bd12d898198f31b961268d2635860f2c032c5cf97620.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-26a663e4325416ed9e23bd12d898198f31b961268d2635860f2c032c5cf97620",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "8fe511e540c2e31b47032b7aa28f04a524fd8c30ae76090fdeac93d210a68a72",
+      "source_content_hash": "96a9e84cd9b1e9d4688427cee0195dfeaad57fb95e2fe5e8a74c43f6ccd5511d",
+      "title": "OCDETF Operation Chain Reaction",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-11/atlas-26a663e4325416ed9e23bd12d898198f31b961268d2635860f2c032c5cf97620/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-273f511a70ee65148b5de2dc0bfc90677a8dfef583ffe4ee71e10bacfc7b20c9.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-273f511a70ee65148b5de2dc0bfc90677a8dfef583ffe4ee71e10bacfc7b20c9",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "524f870f33c78ba740bd22cd1d11d8bf28cf2d3f3f0991a44a2c68972a2e2c09",
+      "source_content_hash": "dc224e71bc7d1dc58a9281dcd27ab62961bf2d2489279b60526eb232a5407ab0",
+      "title": "Hughes-Ryan Amendment",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-11/atlas-273f511a70ee65148b5de2dc0bfc90677a8dfef583ffe4ee71e10bacfc7b20c9/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-27921b10cb3cdde5dc90a6846d7d74b734dcb0c276d434b5ccbfd41bab9a4381.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-27921b10cb3cdde5dc90a6846d7d74b734dcb0c276d434b5ccbfd41bab9a4381",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "983b9aa1db12f494f440624ad9fca54dadba94c9fc43d8c6a444ca8b30453a2c",
+      "source_content_hash": "b7b7276a0d4f83de24f5fff900f2353853571672f89369510d0539f8e4d7fc40",
+      "title": "Bank Secrecy Act",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-11/atlas-27921b10cb3cdde5dc90a6846d7d74b734dcb0c276d434b5ccbfd41bab9a4381/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-27a5255e75c8b7189218433d8640b0342bd1ed7114879ef40fa55ef4f56006a8.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-27a5255e75c8b7189218433d8640b0342bd1ed7114879ef40fa55ef4f56006a8",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "00a2ac38bdbadd23fc0f869f1d8f732368a7607d611e483a7a62a83ecbece50e",
+      "source_content_hash": "baf9256d07d4ee9b3b8e8c8a5b704b759d812cb1c49c2c72b6c76e63366d94cd",
+      "title": "Non-Prosecution Agreement (Florida NPA)",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-11/atlas-27a5255e75c8b7189218433d8640b0342bd1ed7114879ef40fa55ef4f56006a8/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-2a344adb9a20f49e51805f89cc3d118e47408e53e0804de6f9543bd675f00c90.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-2a344adb9a20f49e51805f89cc3d118e47408e53e0804de6f9543bd675f00c90",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "7ce2d8fc0eeb815eb1688def127518fcc21ece131014ab405478b3a6bedc8596",
+      "source_content_hash": "74b41bebf54aa4072fd706c6bf166dde618344ae4c81cd338f2a98ddc96f63c0",
+      "title": "Organized Crime Drug Enforcement Task Forces (OCDETF)",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-11/atlas-2a344adb9a20f49e51805f89cc3d118e47408e53e0804de6f9543bd675f00c90/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-2c308c28e3f2c0f9c43e146a277010abcd9a074db6632d017c194108623f8a92.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-2c308c28e3f2c0f9c43e146a277010abcd9a074db6632d017c194108623f8a92",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "ec8fe7aa7655125c71bdf3617c137331c93424c00bf4dc5078a9ee020fe39b8e",
+      "source_content_hash": "30aa59c957aac9c42c99c1fdbf8972739029c90d06a3604c18caaffec2b4bb9f",
+      "title": "National Security State",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-11/atlas-2c308c28e3f2c0f9c43e146a277010abcd9a074db6632d017c194108623f8a92/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive. Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-30bc4b0b0f0c7279f69bf65e304fda98ae6cce298929c1b88cd85d4b90a32123.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-30bc4b0b0f0c7279f69bf65e304fda98ae6cce298929c1b88cd85d4b90a32123",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "96b154a1216dbc0d272dda87d5730c853ad355956b854e2b623348c667400195",
+      "source_content_hash": "19de8ed3c62486cefc4d8157146710db642e25519a4312835c09c5550fdc99e5",
+      "title": "Jordan Destabilization Doctrine",
+      "topics": [
+        "intelligence/published-accounts"
+      ],
+      "url": "/editions/2026-11/atlas-30bc4b0b0f0c7279f69bf65e304fda98ae6cce298929c1b88cd85d4b90a32123/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive. Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-3214b3fd9d743688bf0adc0ef3a889977024f38285d1c2ff48aa6b3b5fb797b5.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-3214b3fd9d743688bf0adc0ef3a889977024f38285d1c2ff48aa6b3b5fb797b5",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "74c95cf31a3b13a68f00ed0e737b62de10104974848d8c63a44010e83f6f7e00",
+      "source_content_hash": "f0d1b80da3dfe9e538ba8c2f1f64eb433883433f29d353b29f14685673876189",
+      "title": "Mossad Al Unit",
+      "topics": [
+        "intelligence/published-accounts"
+      ],
+      "url": "/editions/2026-11/atlas-3214b3fd9d743688bf0adc0ef3a889977024f38285d1c2ff48aa6b3b5fb797b5/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive. Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-33d376918108c69936a97ead8329d02836b184e1d884675d2566b85a62eeb434.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-33d376918108c69936a97ead8329d02836b184e1d884675d2566b85a62eeb434",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "06ddb75a11565c26e71f606f226452297e145c42411750435f7001d015dc2e4f",
+      "source_content_hash": "d8cdfcc0316f5102247ddbd7f0d0d16b32a2c97bb2577ed156244e0ef5a76537",
+      "title": "Multi-Group and Operation Neva",
+      "topics": [
+        "intelligence/published-accounts"
+      ],
+      "url": "/editions/2026-11/atlas-33d376918108c69936a97ead8329d02836b184e1d884675d2566b85a62eeb434/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-351bd49e59099224f4e9cb3f814f118b3e5392d503c606823af6809990960242.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-351bd49e59099224f4e9cb3f814f118b3e5392d503c606823af6809990960242",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "f76efc7cdb06fec3fd5acdd2f9aace04c48c68256b092f258cf71d1d1122107a",
+      "source_content_hash": "a472aaf57a4f1d0dc853c4e750e4f847f369c66933ecd1fc54c8a27ce0866af3",
+      "title": "War Powers Resolution",
+      "topics": [
+        "oversight/executive-power"
+      ],
+      "url": "/editions/2026-11/atlas-351bd49e59099224f4e9cb3f814f118b3e5392d503c606823af6809990960242/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive. Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-36c083b283db9e680f9e84e42dfb601f1ab597e2917677d83740c92ba645b909.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-36c083b283db9e680f9e84e42dfb601f1ab597e2917677d83740c92ba645b909",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "6ac2cda78a8d96f2b57260894805664ef27e9bcea5257fa2c93930e60e6b7997",
+      "source_content_hash": "0cb77ca64e7cea915f832f46e2ee84dcc7e4665eb915f6a66edb0817ba7e6597",
+      "title": "Operation Underworld",
+      "topics": [
+        "epstein/historical-precursors",
+        "intelligence/us-programs"
+      ],
+      "url": "/editions/2026-11/atlas-36c083b283db9e680f9e84e42dfb601f1ab597e2917677d83740c92ba645b909/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-38bc98b898c98ef9ad8ab5081f8a7a6444bc0d2c672ea01916635d9b14985ce3.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-38bc98b898c98ef9ad8ab5081f8a7a6444bc0d2c672ea01916635d9b14985ce3",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "2d56eb5907eadd6cd02395e584cc569b5e189e3eb4de1a7650a441b83cb96f4c",
+      "source_content_hash": "db89c64fbdda0601dbcd02e2e8bfe438697587e3ade93e9ac7a69ee1db2f1fbe",
+      "title": "Intelligence Evaluation Committee",
+      "topics": [
+        "oversight/investigations-1975",
+        "intelligence/us-programs"
+      ],
+      "url": "/editions/2026-11/atlas-38bc98b898c98ef9ad8ab5081f8a7a6444bc0d2c672ea01916635d9b14985ce3/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-3c1bc732e65dc120c33d5bf82f0bebf2f7870d8d52163cdcfbd00bfe59daa24d.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-3c1bc732e65dc120c33d5bf82f0bebf2f7870d8d52163cdcfbd00bfe59daa24d",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "80eda43e53135ddbeafedea3e2be1c7c8df6ee531739b0d7bc5a4af388229219",
+      "source_content_hash": "6b74cd346a9e60c851d5c3ffe745aad37b8ef7b31097cdaae753a3a12966cb4e",
+      "title": "Police Patrol vs. Fire Alarm Oversight",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-11/atlas-3c1bc732e65dc120c33d5bf82f0bebf2f7870d8d52163cdcfbd00bfe59daa24d/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-3cee46f0f254385b38ab1371fce94564b7b27efb476226fa76e73501b12a833d.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-3cee46f0f254385b38ab1371fce94564b7b27efb476226fa76e73501b12a833d",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "bed5a8dfe4bcb913652dca7c934f6210173da032ebd8d5d24bcccfc5eb9a84df",
+      "source_content_hash": "408b209bb0345890265ab7be412a55167f0c626274b3522705544754d55b009a",
+      "title": "Youngstown Three-Zone Framework",
+      "topics": [
+        "oversight/executive-power"
+      ],
+      "url": "/editions/2026-11/atlas-3cee46f0f254385b38ab1371fce94564b7b27efb476226fa76e73501b12a833d/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-45697e7c48302414e23da6a9509751d50ea8c9390b5a2139c1296c39eeade41e.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-45697e7c48302414e23da6a9509751d50ea8c9390b5a2139c1296c39eeade41e",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "0e3ee6332964b8845537ead9be139bcd595af068df1be339abd17f2157e7c4c7",
+      "source_content_hash": "8f42dfcd0ea75a8b5641ab74576d9ef05c70b7959bc9b6dbcb6355c3674c91e3",
+      "title": "Congressional Oversight Typology (Haas 2x2)",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-11/atlas-45697e7c48302414e23da6a9509751d50ea8c9390b5a2139c1296c39eeade41e/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-45f2f1e6f0d0a8c6396c56b715599f8df7f8ebfb2d274c972e9037895eb1f59c.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-45f2f1e6f0d0a8c6396c56b715599f8df7f8ebfb2d274c972e9037895eb1f59c",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "147ea99b72b0d89357be1030dc91c3cecde08e16d2a2482b9525cd101f6930e0",
+      "source_content_hash": "6c14f09dfc22706bf39bfa8b6ceada1251965302934f3b94490c0a12c0058ab0",
+      "title": "Foreign Intelligence Surveillance",
+      "topics": [
+        "oversight/surveillance-law"
+      ],
+      "url": "/editions/2026-11/atlas-45f2f1e6f0d0a8c6396c56b715599f8df7f8ebfb2d274c972e9037895eb1f59c/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-4d6792d063d36a8dd1df44c0d64a2d384b23f3d889361380aa5486cd17c974ab.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-4d6792d063d36a8dd1df44c0d64a2d384b23f3d889361380aa5486cd17c974ab",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "7779f176f85367affcdb10bb2dbd24d75e2316e19371b38514a528d936c7cfa6",
+      "source_content_hash": "d3ff06dd4597394b956e6ccf8c3e2360bb12ddd09b010e13006c83fdac7ee7c9",
+      "title": "Iran-Contra Cover-Up",
+      "topics": [
+        "oversight/iran-contra"
+      ],
+      "url": "/editions/2026-11/atlas-4d6792d063d36a8dd1df44c0d64a2d384b23f3d889361380aa5486cd17c974ab/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": {
+        "assessed": "2026-10-19",
+        "basis": [
+          "[[sources/cipa-section-6-18-usc-app-3]]",
+          "[[sources/walsh-iran-contra-final-report-vol1-1993]]"
+        ],
+        "change_record": "",
+        "conclusion": "Under CIPA section 6(e), an Attorney General's refusal to permit disclosure of classified information a court has held essential to the defense can end a prosecution, as it did in the Fernandez case and for the central conspiracy and theft counts against North in Iran-Contra.",
+        "confidence": "high",
+        "corroboration": "partial",
+        "counterargument": "Section 6(e)(2) lets the court choose remedies short of dismissal, and Walsh himself accepted that the three CIA programs had to stay secret. So the dismissals reflect courts protecting real secrets, not an administration ending prosecutions.",
+        "response": "The conclusion concerns effect, not motive. In Fernandez the court held the information essential, rejected the alternatives offered, and dismissed after the affidavit, which the Attorney General declined to withdraw after the Fourth Circuit affirmed. In North, Independent Counsel moved to dismiss once the Administration said it would not release the information and the Attorney General confirmed this by affidavit. Legitimate secrecy is compatible with the conclusion; Walsh's dispute was narrower, about two CIA stations he said were already public.",
+        "source_tier": "primary-multiple",
+        "wep": "VERY LIKELY",
+        "would_revise": [
+          "To LIKELY if the dismissal orders in Fernandez (E.D. Va., Nov. 24, 1989) or in North (D.D.C., Jan. 13, 1989) are shown to rest on grounds other than the Attorney General's refusal to permit disclosure."
+        ]
+      },
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-4e02d23c7ed2209d0812ba27e338faacdceab754118a1bfa4073f495adf79a77.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-4e02d23c7ed2209d0812ba27e338faacdceab754118a1bfa4073f495adf79a77",
+      "reference_status": "assessed",
+      "rights": "CC BY 4.0",
+      "sha256": "7215709785d166c408c88377c9e14803166a03ad42aa616e35e1c8c16ed403f4",
+      "source_content_hash": "234411b0a503973ebd0894d62a5e40b9bc9ad84ba94730558453012432cd7430",
+      "title": "CIPA — Classified Information Procedures Act",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-11/atlas-4e02d23c7ed2209d0812ba27e338faacdceab754118a1bfa4073f495adf79a77/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-50ced1a06bfa4c7969afbb7aac40c27be2d91cf2d5431ddb111ab0411cc33e08.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-50ced1a06bfa4c7969afbb7aac40c27be2d91cf2d5431ddb111ab0411cc33e08",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "3af116d35fd346236f1c9cf626b06e43ef95cc4c19d695ab3335197604d190bc",
+      "source_content_hash": "eda2b0eb1db4c5a0bf359897e1fadde14978636e914dff9f1be34acee05dd006",
+      "title": "Suspicious Activity Reports",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-11/atlas-50ced1a06bfa4c7969afbb7aac40c27be2d91cf2d5431ddb111ab0411cc33e08/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-569e4baa6fc87b15c162b6e5cebd20ed9d54ca8e4845580c099e010a730a8060.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-569e4baa6fc87b15c162b6e5cebd20ed9d54ca8e4845580c099e010a730a8060",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "0c4dae3205402b3e3b0e0ddc88cb37cba3f620fe4be622655d6ebfee4d3cc61d",
+      "source_content_hash": "ce312605914bdedef361c7822404a5b3778d92dbd3396df3f7076219683be675",
+      "title": "Money Laundering Cycle",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-569e4baa6fc87b15c162b6e5cebd20ed9d54ca8e4845580c099e010a730a8060/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-57fbb56c98455e69a6a52b3b6c5a4fff423bc09eb5ac43701cbee952f9162362.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-57fbb56c98455e69a6a52b3b6c5a4fff423bc09eb5ac43701cbee952f9162362",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "ffedb8185d5ce7474941f5c7e3750fee543c5b811a7165bc57b21112a231cc07",
+      "source_content_hash": "4e903ac8d65ad530c1da673e6dc4559c6d9278bb460488720a9e8db021b2c09e",
+      "title": "Intelligence Oversight Act of 1980",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-11/atlas-57fbb56c98455e69a6a52b3b6c5a4fff423bc09eb5ac43701cbee952f9162362/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-58e2263a862ef105fe8cad51e6a772eeade53b95d0890e23ad597ab30d584d1c.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-58e2263a862ef105fe8cad51e6a772eeade53b95d0890e23ad597ab30d584d1c",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "229148090a6a394becb6a02fe69542522984e391c754adefad1f62ca7207cf09",
+      "source_content_hash": "f472eba81f011fdc5e36c22a06612c2ac3c3ddc9b1421f9ffb473e300fbe1cf0",
+      "title": "The Iran-Contra Diversion",
+      "topics": [
+        "oversight/iran-contra"
+      ],
+      "url": "/editions/2026-11/atlas-58e2263a862ef105fe8cad51e6a772eeade53b95d0890e23ad597ab30d584d1c/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-66cdd8443ab6cb5a8313b378422f4b1137d81259c4061ec94a815378b253978d.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-66cdd8443ab6cb5a8313b378422f4b1137d81259c4061ec94a815378b253978d",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "2ac010e9fb3b2fab3ba95c31fa668a2d6cd50c78479f7197fc7617d8a3749058",
+      "source_content_hash": "d1666ecb11902009b415621d6a1d57c0117d1d7c15b42f7f4a9e895b20870e17",
+      "title": "Richard Welch Assassination (1975) and the Ford White House Response",
+      "topics": [
+        "oversight/investigations-1975"
+      ],
+      "url": "/editions/2026-11/atlas-66cdd8443ab6cb5a8313b378422f4b1137d81259c4061ec94a815378b253978d/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive. Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-6b3e2e394404f23b3bdeb691ce46aed6c28ec4ad89e89ca290af3bbea01eb492.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-6b3e2e394404f23b3bdeb691ce46aed6c28ec4ad89e89ca290af3bbea01eb492",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "a9781472908813df9b8f473be9ac59d5e39fb8d62086948ce987723d9b0387f6",
+      "source_content_hash": "4e5777ba07a1f12477d5bb74839dad3f8d9e2128aa0777a06e3dd2aff63af36b",
+      "title": "LAKAM — Bureau of Scientific Liaison",
+      "topics": [
+        "intelligence/published-accounts"
+      ],
+      "url": "/editions/2026-11/atlas-6b3e2e394404f23b3bdeb691ce46aed6c28ec4ad89e89ca290af3bbea01eb492/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-6bf7a2b33962334bedf554eb4a6d2de104fc5a6765652be5fcae804f98326c20.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-6bf7a2b33962334bedf554eb4a6d2de104fc5a6765652be5fcae804f98326c20",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "5205a75627971eea139e3e752f3ea56222da992dfccceaac8ea72ea4881e321d",
+      "source_content_hash": "452ea4b0ca35a53c5726ed26ae3d00b4b1bb2360657729061abf402e2c9d63cd",
+      "title": "NSDD-286 (1987)",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-11/atlas-6bf7a2b33962334bedf554eb4a6d2de104fc5a6765652be5fcae804f98326c20/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-6ec21ac8a08d3f484e5216e1e7c3605cb8324203dcde68130a20ce5ff59b682d.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-6ec21ac8a08d3f484e5216e1e7c3605cb8324203dcde68130a20ce5ff59b682d",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "5272db606d05768c118feb8973e72e17e161387008191909b3de8bf3b27ca4d8",
+      "source_content_hash": "ea655161551211aafbe193c347c1bfdd6bd855a8d1f40bad637baa7af3d5a050",
+      "title": "In re Wild Doctrine",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-11/atlas-6ec21ac8a08d3f484e5216e1e7c3605cb8324203dcde68130a20ce5ff59b682d/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": {
+        "assessed": "2026-10-19",
+        "basis": [
+          "[[sources/olmstead-v-us-1928]]",
+          "[[sources/katz-v-us-1967]]",
+          "[[sources/church-committee-book2-rights-of-americans-1976]]"
+        ],
+        "change_record": "",
+        "conclusion": "From Olmstead (1928) to Katz (1967), the Supreme Court's reading of the Fourth Amendment did not reach wiretapping without physical trespass, and through those decades federal wiretapping ran on executive authorization rather than judicial warrants.",
+        "confidence": "high",
+        "corroboration": "partial",
+        "counterargument": "Wiretapping was not unregulated. Section 605 of the Communications Act (1934) and the Nardone decisions barred the use of intercepted communications as evidence, and programs such as SHAMROCK (cables) and HTLINGUAL (mail) were not wiretaps at all, so the trespass rule did not authorize them.",
+        "response": "Accepted in part, which is why the conclusion is limited to wiretapping and to the constitutional rule and the page no longer says the other programs proceeded under it. Section 605 governed evidence, not authorization: the Justice Department read it as barring only divulgence outside the executive branch, and the 1940 presidential order put wiretaps on Attorney General approval, not judicial warrants (Church Committee Book II, pp. 36-37, 187).",
+        "source_tier": "primary-multiple",
+        "wep": "VERY LIKELY",
+        "would_revise": [
+          "To LIKELY if the Church Committee Book II electronic-surveillance history (printed pp. 36-37 and 186-188) is shown to record that federal wiretaps between 1940 and 1967 required court orders."
+        ]
+      },
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-703982ce39b3c2b6d60fdfdf3f70a5b251883bd8350012ce48e492e28119857a.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-703982ce39b3c2b6d60fdfdf3f70a5b251883bd8350012ce48e492e28119857a",
+      "reference_status": "assessed",
+      "rights": "CC BY 4.0",
+      "sha256": "59114aa2eb4fa43dc6671ce96c5d1c11679f4c2d9a32a6bff5473bcf32bf7131",
+      "source_content_hash": "d7ee1f7f436efd222f10f7e31eed631a759422b12dbf70b601e56a65ce90ab59",
+      "title": "Trespass Doctrine",
+      "topics": [
+        "oversight/surveillance-law"
+      ],
+      "url": "/editions/2026-11/atlas-703982ce39b3c2b6d60fdfdf3f70a5b251883bd8350012ce48e492e28119857a/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": {
+        "assessed": "2026-10-19",
+        "basis": [
+          "[[sources/aclu-v-nsa-sixth-circuit-2007]]",
+          "[[sources/aclu-v-nsa-district-court-2006]]",
+          "[[sources/aclu-v-clapper-2015]]",
+          "[[sources/klayman-v-obama-2013]]",
+          "[[sources/pclob-section-215-report-2014]]"
+        ],
+        "change_record": "",
+        "conclusion": "In the cases held here, challenges to the post-9/11 surveillance programs were resolved on state-secrets, standing or statutory grounds, or met the third-party doctrine, without a final appellate ruling on their Fourth Amendment merits.",
+        "confidence": "medium",
+        "corroboration": "partial",
+        "counterargument": "Courts did reach the merits: the Eastern District of Michigan held the Terrorist Surveillance Program unconstitutional in 2006, and Klayman v. Obama (2013) held that Smith does not apply to bulk telephone metadata.",
+        "response": "Neither is a final appellate merits ruling. The Sixth Circuit vacated the Michigan judgment for lack of standing; Klayman was a preliminary-injunction ruling, which the D.C. Circuit vacated in 2015 on standing-related grounds without reaching Smith (not held here). The Second Circuit in ACLU v. Clapper decided on statutory grounds without reaching the constitutional arguments. Confidence is medium because the set of held cases is not exhaustive.",
+        "source_tier": "primary-multiple",
+        "wep": "VERY LIKELY",
+        "would_revise": [
+          "To LIKELY if an appellate decision on a post-9/11 bulk surveillance program that decided its Fourth Amendment merits is identified and acquired."
+        ]
+      },
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-706166c0f6450e742804b4f15f790efd112649d5c7724f4ab54b4298de2ff6ca.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-706166c0f6450e742804b4f15f790efd112649d5c7724f4ab54b4298de2ff6ca",
+      "reference_status": "assessed",
+      "rights": "CC BY 4.0",
+      "sha256": "51ceccb9f055e1595ad5d91002188aea3eddde7945cfb88a58fc487db58b968f",
+      "source_content_hash": "82dec1d6b5993bfbde40c7855782f73004eede6e12fca2eb68545fa09bf1fad7",
+      "title": "Surveillance Doctrine",
+      "topics": [
+        "oversight/surveillance-law"
+      ],
+      "url": "/editions/2026-11/atlas-706166c0f6450e742804b4f15f790efd112649d5c7724f4ab54b4298de2ff6ca/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": {
+        "assessed": "2026-10-19",
+        "basis": [
+          "[[sources/iran-contra-congressional-report-1987]]",
+          "[[sources/walsh-iran-contra-final-report-vol1-1993]]",
+          "[[sources/hughes-ryan-amendment-1974]]",
+          "[[sources/intelligence-authorization-act-fy1981]]"
+        ],
+        "change_record": "",
+        "conclusion": "In Iran-Contra, executive officials ran covert operations outside the statutory controls on covert action and Contra funding, without timely notice to Congress and with non-appropriated funds, as the congressional majority and the Independent Counsel separately documented.",
+        "confidence": "high",
+        "corroboration": "partial",
+        "counterargument": "The minority report argues that the NSC staff was outside the statutes, that the President's constitutional power could not be restricted this way, and that the affair involved 'mistakes in judgment, and nothing more'.",
+        "response": "That is a dispute about legality and constitutional power, not about what happened. The minority itself counts about $35 million raised outside appropriations and states that no substantial appropriated funds were used, and the majority records that no notice of the NSC staff's Contra covert action was ever sent to Congress and that Congress learned of the January 1986 Iran finding from the press. The conclusion says the operations ran outside the statutory channels; it does not say any person committed a crime.",
+        "source_tier": "primary-multiple",
+        "wep": "VERY LIKELY",
+        "would_revise": [
+          "To LIKELY if records show the intelligence committees were notified of the January 17, 1986 Iran finding before the November 1986 press reports.",
+          "To LIKELY if the minority report's factual chapters, as distinct from its legal argument, dispute that the Contra support ran on non-appropriated funds."
+        ]
+      },
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-738c87f0e4eb092ad2ff0b9551d6d417329b07c0ff37724f2e92d59b59859d92.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-738c87f0e4eb092ad2ff0b9551d6d417329b07c0ff37724f2e92d59b59859d92",
+      "reference_status": "assessed",
+      "rights": "CC BY 4.0",
+      "sha256": "4486ed9c16f6d08f7241f22e72bca9787f1e733e1b903be951ef8bea27d71e4d",
+      "source_content_hash": "1a789f6a3dd3cb4fe48f71b728fceefaf641def1a787e49fbbfa45f936b60215",
+      "title": "Foreign Policy Oversight",
+      "topics": [
+        "oversight/executive-power"
+      ],
+      "url": "/editions/2026-11/atlas-738c87f0e4eb092ad2ff0b9551d6d417329b07c0ff37724f2e92d59b59859d92/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive. Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-75886090097f6c8df2c1641c4c7e4f7cc83699200fe47e3040f272d76b55af15.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-75886090097f6c8df2c1641c4c7e4f7cc83699200fe47e3040f272d76b55af15",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "33b62f41bd4e49e721bf7d5498637dfa47801749e12abb8863dfeea613aca577",
+      "source_content_hash": "cc39cc16a7925e9f439674a1e6a93aeb495423697f17f7ed061e36034dc6c7a7",
+      "title": "Project Babylon",
+      "topics": [
+        "intelligence/published-accounts"
+      ],
+      "url": "/editions/2026-11/atlas-75886090097f6c8df2c1641c4c7e4f7cc83699200fe47e3040f272d76b55af15/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-76b041da47fbedd18a3c99347dc38ca7b7ea0b0ba8334d2f8320a1cfaeac34df.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-76b041da47fbedd18a3c99347dc38ca7b7ea0b0ba8334d2f8320a1cfaeac34df",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "b5414863308ef02df0e25b48ba81bd36962613681ffe337e9c2b0924e2d76f67",
+      "source_content_hash": "dc67d7acba18a467350399076d040efb649559e257d891a01dd7100c92d3ad15",
+      "title": "Charter Legislation (1978–1980)",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-11/atlas-76b041da47fbedd18a3c99347dc38ca7b7ea0b0ba8334d2f8320a1cfaeac34df/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-7a499bd3c9efb75539c2019a7fc30f92ee7e42c7d526b3a35d800f4edc9fb49a.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-7a499bd3c9efb75539c2019a7fc30f92ee7e42c7d526b3a35d800f4edc9fb49a",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "3be27a599098cbb94cfc3f9138d3c1a57f99257e236e86a7adef3fe6f186a767",
+      "source_content_hash": "3b439c5e7358620a38fe3bcecfc3360a3094692d30b7511bffc91bdf5c385002",
+      "title": "Southern Trust and DNA Mining",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-7a499bd3c9efb75539c2019a7fc30f92ee7e42c7d526b3a35d800f4edc9fb49a/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive. Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-7c61a63bbacdfc1efb017c2c6f84ea7e21fa492d3575575aaa8f7821f8f95a30.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-7c61a63bbacdfc1efb017c2c6f84ea7e21fa492d3575575aaa8f7821f8f95a30",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "9a7d34371b59c79b7c57693e360c376bb414a74d56be9d11056ce19368807b3b",
+      "source_content_hash": "504b44179dd9b6a3aeadd1db11aae9a3d028a3551965be4c9406f4f05df035f4",
+      "title": "Operation Brush-Fire",
+      "topics": [
+        "intelligence/published-accounts"
+      ],
+      "url": "/editions/2026-11/atlas-7c61a63bbacdfc1efb017c2c6f84ea7e21fa492d3575575aaa8f7821f8f95a30/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-8010d880a5ec95c5a5a2aebe54d1e4acf99e7510df45f5c6096ed3146dae0ca5.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-8010d880a5ec95c5a5a2aebe54d1e4acf99e7510df45f5c6096ed3146dae0ca5",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "f49a34b61f857abbf211e4385ac1626fca363397aff4ce51a7d9ab56b2ea6d64",
+      "source_content_hash": "b92888ed54bb6fdf706d37e8982a397731092135702ed3acb931a94352e36e13",
+      "title": "\"Invitation to Struggle\"",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-11/atlas-8010d880a5ec95c5a5a2aebe54d1e4acf99e7510df45f5c6096ed3146dae0ca5/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-84a79dcd6284504dae1690a77238e4aa6b6fa9d634832a263f8489d330d3175e.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-84a79dcd6284504dae1690a77238e4aa6b6fa9d634832a263f8489d330d3175e",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "bd5a47573e288b3475ee7cb2d66db4d1be6f6e7371bfb77fec59ae133e3b2149",
+      "source_content_hash": "6b1328b7cb29dadb1026d57e5a348327baab0ccbd1690e941a87c222fde8ace3",
+      "title": "Grand Jury Secrecy (Federal Rule of Criminal Procedure 6(e))",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-11/atlas-84a79dcd6284504dae1690a77238e4aa6b6fa9d634832a263f8489d330d3175e/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-861bb8d1da8b2c70d0fbb712e0335b338f1c0dd19d9490a41772ec37a36a3af8.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-861bb8d1da8b2c70d0fbb712e0335b338f1c0dd19d9490a41772ec37a36a3af8",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "1ed4e2978674650d72c96aeeaf868b9299994209ed984d4edf29b3cb17367e61",
+      "source_content_hash": "beb5bb11d6118af79e4644c92e949eb538a621b18a9020d453b91b4d56b42041",
+      "title": "Foreign Intelligence Surveillance Act (FISA)",
+      "topics": [
+        "oversight/surveillance-law"
+      ],
+      "url": "/editions/2026-11/atlas-861bb8d1da8b2c70d0fbb712e0335b338f1c0dd19d9490a41772ec37a36a3af8/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-8641f156c34ab490b11696067ce85ef69c23561dbc13b946ee81cc548bed4e35.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-8641f156c34ab490b11696067ce85ef69c23561dbc13b946ee81cc548bed4e35",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "5295ace78e1a9a0aacb2e3ed42c974a8c5a8e0ce6e4cb697e258803814be1ba6",
+      "source_content_hash": "57b35cd225dcb3b29e7a99fefa5fc0a5cbd3284d68c39237d1f767e7f3fad46b",
+      "title": "Security Commission Pattern",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-11/atlas-8641f156c34ab490b11696067ce85ef69c23561dbc13b946ee81cc548bed4e35/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-879ce31c2fddd7e7f4c07a1363b8386dd3f89fff53e5ac6c79ac91affb6dd996.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-879ce31c2fddd7e7f4c07a1363b8386dd3f89fff53e5ac6c79ac91affb6dd996",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "93c5865830586b17f96accf053c057b7fb61dfd1d3a3eef758983bc7a1c206d8",
+      "source_content_hash": "d35df64c567e8b9b9daa327cdc278050bc4c9ad9b1f827e2a5ab9354be9cbf4c",
+      "title": "Edge Foundation",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-879ce31c2fddd7e7f4c07a1363b8386dd3f89fff53e5ac6c79ac91affb6dd996/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-8af426c9a4a0396450e125732e0a2da1687d8ba04d8e6caf16c17ce9e8566559.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-8af426c9a4a0396450e125732e0a2da1687d8ba04d8e6caf16c17ce9e8566559",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "1cea245a73f31d4e4545558fd12d18499def373f2aab829cb02eca5be028297b",
+      "source_content_hash": "a3f198a1382f67eb70c36f6c77764737f314d64ed680a5cc90773d36d96b575a",
+      "title": "Office of Policy Coordination (OPC)",
+      "topics": [
+        "oversight/investigations-1975",
+        "intelligence/us-programs"
+      ],
+      "url": "/editions/2026-11/atlas-8af426c9a4a0396450e125732e0a2da1687d8ba04d8e6caf16c17ce9e8566559/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-90716c8fb83eb662b41a3c6e8193378b59b8e6882f5fd5bd01204d21a3cef330.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-90716c8fb83eb662b41a3c6e8193378b59b8e6882f5fd5bd01204d21a3cef330",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "15b326b60bb34970efe3e54e98813d1042ca105ce008c98738a601d1ae697a1e",
+      "source_content_hash": "09d4d208a7d9df8bf877d8e82affa3ef7c6804ec0ada520a793585afbb540440",
+      "title": "Giuffre Memoir — Nobody's Girl (2025)",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-90716c8fb83eb662b41a3c6e8193378b59b8e6882f5fd5bd01204d21a3cef330/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": {
+        "assessed": "2026-10-19",
+        "basis": [
+          "[[sources/rockefeller-commission-report-1975]]",
+          "[[sources/church-committee-book3-staff-reports-1976]]",
+          "[[sources/wilderotter-cia-matters-1975-01-03]]",
+          "[[sources/cia-family-jewels]]"
+        ],
+        "change_record": "",
+        "conclusion": "MHCHAOS was driven by White House demands: CIA set it up in August 1967 in response to presidential pressure for evidence of foreign influence on domestic dissent, and continuing requests from two Presidents, including Nixon White House requirements passed through John Dean and the Intelligence Evaluation Committee, added resources to it.",
+        "confidence": "high",
+        "corroboration": "partial",
+        "counterargument": "Helms told the Church Committee he did not claim a specific presidential request, only President Johnson's general interest; the program kept growing after CIA repeatedly reported no significant foreign link, and the Rockefeller Commission found that CIA management stretched and on occasion exceeded its legal limits. On that view CHAOS was CIA's own counterintelligence effort, which outside pressure merely accompanied.",
+        "response": "Both investigations attribute the program's start and growth to White House demands. The Rockefeller Commission says two Presidents and their staffs made continuing and insistent requests, that further White House demands followed each report finding no significant foreign link, and that the cumulative effect was more resources, including agents, for the Operation; Colby, briefing the Justice Department in December 1974, said the Huston Plan and the Intelligence Evaluation Committee gave the program stimulus. CIA overreach is compatible with the conclusion, which says the program was driven by White House demands, not that CIA bore no responsibility. Corroboration is partial because both investigations relied on CIA records and testimony.",
+        "source_tier": "primary-multiple",
+        "wep": "VERY LIKELY",
+        "would_revise": [
+          "To LIKELY if contemporaneous CIA or White House records from 1967 to 1971, such as the August 15, 1967 Karamessines directive, show the program was begun or expanded without any White House request.",
+          "To LIKELY if the records underlying the Rockefeller Commission's and Church Committee's White House-pressure findings are shown to rest only on Richard Helms's own testimony."
+        ]
+      },
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-91b3b73bb74eb0bc1e5686c2a190dfae60edd66f7d6383ae94895d75d6734366.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-91b3b73bb74eb0bc1e5686c2a190dfae60edd66f7d6383ae94895d75d6734366",
+      "reference_status": "assessed",
+      "rights": "CC BY 4.0",
+      "sha256": "d643c03a2797d4c9bfb75fbf21f40b155b2500bb260ea9446d69808bdc5fb615",
+      "source_content_hash": "e7e4bb50d855fbe686fd6dda93741effdfa3bf7a6eb183b50632977b58be121f",
+      "title": "MHCHAOS",
+      "topics": [
+        "oversight/investigations-1975",
+        "intelligence/us-programs"
+      ],
+      "url": "/editions/2026-11/atlas-91b3b73bb74eb0bc1e5686c2a190dfae60edd66f7d6383ae94895d75d6734366/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-93cbbe463cedd0f46366c946b5a7b8e0aad0184ade12c9d0f1ee61a3325e784a.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-93cbbe463cedd0f46366c946b5a7b8e0aad0184ade12c9d0f1ee61a3325e784a",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "a130a4281fc4c27cb05ead31ee230a4bcf5a050c5db110225d8c968d6f475953",
+      "source_content_hash": "b69e36d5eef1e8b76d6a96e1676a3329eee86b5e2198fa326b6002df44cb889f",
+      "title": "Executive Power in Domestic Affairs",
+      "topics": [
+        "oversight/executive-power"
+      ],
+      "url": "/editions/2026-11/atlas-93cbbe463cedd0f46366c946b5a7b8e0aad0184ade12c9d0f1ee61a3325e784a/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-99b093eadc82503e84cb6354f66a06dcdcbaf266ab8f8f7bd1a3721416185d45.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-99b093eadc82503e84cb6354f66a06dcdcbaf266ab8f8f7bd1a3721416185d45",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "f7afccc72e435510f5f06b4e1b1ec7a3aa3c569c56f94c0ce63495e00ff5c2f4",
+      "source_content_hash": "38b12b3da1c8efbf544dad437e47418e2a19020f122d9f402e4d50f9603493e8",
+      "title": "Epstein Flight Department (JEGE)",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-99b093eadc82503e84cb6354f66a06dcdcbaf266ab8f8f7bd1a3721416185d45/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive. Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-9c1fe96c73992632ea790ba69cdc74c13d50fee2a20fbd78e7e337336363728e.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-9c1fe96c73992632ea790ba69cdc74c13d50fee2a20fbd78e7e337336363728e",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "f73254f2c08377b4b9c8babf5d2f580ac8408284871cf78af7c1665be3cea2b1",
+      "source_content_hash": "4effbe8052616db12e63d5d8ca241457a4cd0e5be7d6e89bfdd7e1b6b6d4d1d5",
+      "title": "Castle Bank & Trust",
+      "topics": [
+        "epstein/historical-precursors"
+      ],
+      "url": "/editions/2026-11/atlas-9c1fe96c73992632ea790ba69cdc74c13d50fee2a20fbd78e7e337336363728e/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-a087bcd6b03cf10c1c39aaa232672b7bcbc964f20789baa0768b2566ea7a8896.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-a087bcd6b03cf10c1c39aaa232672b7bcbc964f20789baa0768b2566ea7a8896",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "47a102a47ae61559905101c46ae59114737caf85cfc86ea85efcf7686977e513",
+      "source_content_hash": "8719bc8bbdb9090525d845408a932092a5a6071d5ef27207f946fdb6e2ddf08f",
+      "title": "Influence Network",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-a087bcd6b03cf10c1c39aaa232672b7bcbc964f20789baa0768b2566ea7a8896/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive. Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-a4693dbcf94d5f79e97ea3912dc911bb0bae48d5bfc98ff00b51ae6216fac35d.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-a4693dbcf94d5f79e97ea3912dc911bb0bae48d5bfc98ff00b51ae6216fac35d",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "404bc989f664e77b6f54dd59527177e1427ab36a388da321386d636f99959ae0",
+      "source_content_hash": "a9a57bb8b4eadd78380313095437c6cc3e2037df736a6673ef44d8725a6982d7",
+      "title": "Kidon / Metsada (Komemiute)",
+      "topics": [
+        "intelligence/published-accounts"
+      ],
+      "url": "/editions/2026-11/atlas-a4693dbcf94d5f79e97ea3912dc911bb0bae48d5bfc98ff00b51ae6216fac35d/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-a56d8dc86d0bef33ca10472f94853639380d5dddc8daeda970f16484a652cc5f.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-a56d8dc86d0bef33ca10472f94853639380d5dddc8daeda970f16484a652cc5f",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "9c77928d4505154a1ac719366429e2cf307081c18216cfae0c884bb1da747c44",
+      "source_content_hash": "dc122121b2895fb54ea8419a596d5d8919c7c97308862773fceca670f8cbce64",
+      "title": "Interstate Travel Nexus",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-a56d8dc86d0bef33ca10472f94853639380d5dddc8daeda970f16484a652cc5f/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-a5a49041ac263fa109c563cdaa40f6ebc2fd5d5911dc4ee16598f309d4500c8d.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-a5a49041ac263fa109c563cdaa40f6ebc2fd5d5911dc4ee16598f309d4500c8d",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "bb9f40f7726879b5d6eb3bf9caabda771c33a5b46a57fec80d0d81ca6a0ecfd3",
+      "source_content_hash": "8967f5bb72e2b1a00d20b854c23900c128fcc8ab1c6692637e3ee18b3d39ff3d",
+      "title": "Fourth Amendment Doctrine",
+      "topics": [
+        "oversight/surveillance-law"
+      ],
+      "url": "/editions/2026-11/atlas-a5a49041ac263fa109c563cdaa40f6ebc2fd5d5911dc4ee16598f309d4500c8d/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-a95c59b4815ecd541267d52ed6bb879fcd3e08d973293fe1a259d89a71df08b8.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-a95c59b4815ecd541267d52ed6bb879fcd3e08d973293fe1a259d89a71df08b8",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "e8adfe922bc5d786d84750f8000436fd4f7c4f8f99298ecd61e294a9b9c22fd3",
+      "source_content_hash": "032e6a6bf2aec46e50bc59a2ff858bf505f661339a2e2ac5830cf113c13c8c2e",
+      "title": "Presidential Finding",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-11/atlas-a95c59b4815ecd541267d52ed6bb879fcd3e08d973293fe1a259d89a71df08b8/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-aa29cadea7415df01450c05b9627d3b55815ffa58651f13103fe7705f0f35a44.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-aa29cadea7415df01450c05b9627d3b55815ffa58651f13103fe7705f0f35a44",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "e43044373bee8fea0372a8cf0654f4b26af4d11b7d52ea40e332dde5aec06306",
+      "source_content_hash": "38932e7dbc841869d3424c85bd211ab398e2fce788461f13ac2d096a0e2e88a3",
+      "title": "\"Rogue Agency\" Narrative",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-11/atlas-aa29cadea7415df01450c05b9627d3b55815ffa58651f13103fe7705f0f35a44/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-b0e5584e58ab9a7887b18fcbc0c84e4461cb8fb09c67ecba3e28655cad6030a1.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-b0e5584e58ab9a7887b18fcbc0c84e4461cb8fb09c67ecba3e28655cad6030a1",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "6f687a340239d39e2c0812fdaf5d391e84aba74889f3d5c81334a36fc2ce554d",
+      "source_content_hash": "e4946e8e806999e7583df66bfb5f35e9a4e7091f77f47fecaa29a54fadbcffe1",
+      "title": "Sole Organ Doctrine",
+      "topics": [
+        "oversight/executive-power"
+      ],
+      "url": "/editions/2026-11/atlas-b0e5584e58ab9a7887b18fcbc0c84e4461cb8fb09c67ecba3e28655cad6030a1/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-b46a60b395075278b71586345ec49652a297e0f75ecc3f20e9713bb47d4510fe.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-b46a60b395075278b71586345ec49652a297e0f75ecc3f20e9713bb47d4510fe",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "00704613333044fb577c61dad662acfc9a333a9eb1916dabd980b8f2ca3d4e8a",
+      "source_content_hash": "48814f68bfa785d0e487c2aaab24d8cde49dab5ab27d8690c9e18fdccf8d0006",
+      "title": "Victoria's Secret Recruitment Allegations",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-b46a60b395075278b71586345ec49652a297e0f75ecc3f20e9713bb47d4510fe/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-b47729ad13a71820f5d8d998b96c881cd27321382a6261a5ebee526c6563e119.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-b47729ad13a71820f5d8d998b96c881cd27321382a6261a5ebee526c6563e119",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "9bbd17362c17841f453b51eee76afeb3fe038bc61e22adda4a91cfc9c10d5d8b",
+      "source_content_hash": "8a480094b8b19ae7a2447bf11944a13f4d3820db9c25a651e6ec9044d3aad27c",
+      "title": "Double Government / Trumanite Network",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-11/atlas-b47729ad13a71820f5d8d998b96c881cd27321382a6261a5ebee526c6563e119/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-b49af3bff7d0a13d896a9991017ccca6591f073c4ffc9bc6695182193cd52f17.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-b49af3bff7d0a13d896a9991017ccca6591f073c4ffc9bc6695182193cd52f17",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "642cb9ad3e4f7a473d456c264b146e75e63a72247eb7923360d8bb2f292a48ab",
+      "source_content_hash": "048317b456f6197698a0b715c964ff5b6a87d0d587f147dd90e323c76ec157f5",
+      "title": "DOJ Redaction Dispute — Epstein Disclosure Episodes (2025–2026)",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-11/atlas-b49af3bff7d0a13d896a9991017ccca6591f073c4ffc9bc6695182193cd52f17/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-ba0864ef2c3382b1d49623dabc1f304edce8f13c791c4c7842eca567dd150e12.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-ba0864ef2c3382b1d49623dabc1f304edce8f13c791c4c7842eca567dd150e12",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "434027d3d04a97c618c659b5be0934ea89a6014e1933aabd0850cd185c7d912d",
+      "source_content_hash": "71a66d7d1aea8bde5ead61023f853356c60fb18ba662837e3ab94f3ff24d43b1",
+      "title": "Executive-Branch Counter-Mobilization",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-11/atlas-ba0864ef2c3382b1d49623dabc1f304edce8f13c791c4c7842eca567dd150e12/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-bb294025546bf266f2d292eca269078064a463c350ef580318943399097bff53.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-bb294025546bf266f2d292eca269078064a463c350ef580318943399097bff53",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "b7437438e6e86e1c233591b3ffd124a83c022950aeb72ff5d3126ba24693ac15",
+      "source_content_hash": "3b360cc9f5b203e30e43aa7446684f75aa00d3aaf0a052f0a13e0dcfec6a5c8c",
+      "title": "Post-Watergate Accountability Cluster",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-11/atlas-bb294025546bf266f2d292eca269078064a463c350ef580318943399097bff53/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": {
+        "assessed": "2026-10-19",
+        "basis": [
+          "[[sources/walsh-iran-contra-final-report-vol1-1993]]",
+          "[[sources/iran-contra-congressional-report-1987]]",
+          "[[sources/us-v-poindexter-951-f2d-369-1991]]",
+          "[[sources/kastigar-v-united-states-1972]]"
+        ],
+        "change_record": "",
+        "conclusion": "In Iran-Contra, Congress's grants of use immunity for nationally televised testimony ended the prosecutions of the two immunized principals, North and Poindexter, whose convictions were set aside and not retried; when Congress compels such testimony first, it can foreclose prosecution of those witnesses in highly publicized cases.",
+        "confidence": "medium",
+        "corroboration": "partial",
+        "counterargument": "Walsh records that the appellate panels did not find the prosecutions tainted; they held only that the trial courts' safeguards were insufficient. Better trial management could have preserved the convictions, so immunity makes prosecution harder, not impossible. Albert Hakim was also immunized by the committees and was still convicted.",
+        "response": "The courts' standard required proof that no witness's testimony was affected by testimony the whole country had watched. On remand North's case ended when a key witness said his testimony had been colored by it, and Independent Counsel did not retry Poindexter. Hakim's immunity was limited, chiefly to obtain Swiss bank records, and his case ended in a misdemeanor guilty plea with no Kastigar contest, so it does not test the claim. The conclusion is limited to contested prosecutions of witnesses whose immunized testimony was widely broadcast, which is why confidence is medium.",
+        "source_tier": "primary-multiple",
+        "wep": "VERY LIKELY",
+        "would_revise": [
+          "To LIKELY if a federal appellate decision is found upholding, after Kastigar review, the conviction of a witness whose congressionally immunized testimony was nationally broadcast."
+        ]
+      },
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-bbd7f288a700c578c6c96a43089b174867a0d7d6dbea5dcadf54feb0054f6fa1.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-bbd7f288a700c578c6c96a43089b174867a0d7d6dbea5dcadf54feb0054f6fa1",
+      "reference_status": "assessed",
+      "rights": "CC BY 4.0",
+      "sha256": "57e0136598f2d26ece93b2b24c059d87bb53d20ef0376b85fe24480e54482b50",
+      "source_content_hash": "607e8d9ab0ad8f1b5b6493d4f9b3b9391a8749684ea512ae1dbba3df962d72e5",
+      "title": "Congressional Immunity Grants and Prosecution",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-11/atlas-bbd7f288a700c578c6c96a43089b174867a0d7d6dbea5dcadf54feb0054f6fa1/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-bcfb3e6b3703331f6d33384aab4c8dfd0a93cd5be140e7928c99c2a0863667d5.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-bcfb3e6b3703331f6d33384aab4c8dfd0a93cd5be140e7928c99c2a0863667d5",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "a9cbc3f672c4622893e56a4ce52524fb2245340eb4a0fef42b62f55f7191a8a3",
+      "source_content_hash": "df9927426b7089275e1a91a4036f444f8d59e6c4dab1dcb64e26d31ecf78a5dc",
+      "title": "Independent Counsel Statute (Ethics in Government Act)",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-11/atlas-bcfb3e6b3703331f6d33384aab4c8dfd0a93cd5be140e7928c99c2a0863667d5/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-beb99cc33c9d9ccd6310733c2a35033977240de92ce03a5911490173d4fa63a9.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-beb99cc33c9d9ccd6310733c2a35033977240de92ce03a5911490173d4fa63a9",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "6c5d68130a5da024fdcbf7f172710b92fe427b2bd5b0019013c5507ef926e5d6",
+      "source_content_hash": "470a0c1ed25912146664d559cab6f3cf63461da1dc7fc1f92649eeb3aa8e795c",
+      "title": "Right to Be Let Alone",
+      "topics": [
+        "oversight/surveillance-law"
+      ],
+      "url": "/editions/2026-11/atlas-beb99cc33c9d9ccd6310733c2a35033977240de92ce03a5911490173d4fa63a9/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-c36f9ea75c06c0eb4f5a35e884bc531c0e02df2cbd05de18898e4b15ec78816f.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-c36f9ea75c06c0eb4f5a35e884bc531c0e02df2cbd05de18898e4b15ec78816f",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "8a61f8f34248d7e8d0bf9d1fe34e36e22ddade88bf5de714bb4210adc20b25c1",
+      "source_content_hash": "5aead6d9d2fc6d90d80f17def2f5982fefa065b50bacf6f5040d488e29956480",
+      "title": "CVRA Litigation — Doe v. United States",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-11/atlas-c36f9ea75c06c0eb4f5a35e884bc531c0e02df2cbd05de18898e4b15ec78816f/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-c3d52c8c6f8c310282d1e2a875c77e973f3b5d9dc42c95b0774b156429630a38.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-c3d52c8c6f8c310282d1e2a875c77e973f3b5d9dc42c95b0774b156429630a38",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "d51d5ba5d0941503a39e5595ea8dfc2b478647ec43843ee9458e9fe81c9674bb",
+      "source_content_hash": "b10810ebb8688eb06669a3e346c23616ac4c1c2cf30b769263fe28e8aad7db4a",
+      "title": "Pike Report Suppression and Village Voice Leak",
+      "topics": [
+        "oversight/investigations-1975"
+      ],
+      "url": "/editions/2026-11/atlas-c3d52c8c6f8c310282d1e2a875c77e973f3b5d9dc42c95b0774b156429630a38/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-c5731fdf908c1f0f5b91a7b7aa4ad2f00890dcb7f96b2ba042a4e63b50a9a819.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-c5731fdf908c1f0f5b91a7b7aa4ad2f00890dcb7f96b2ba042a4e63b50a9a819",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "c742f86978e012952ef2294611d52dc6513e81ac7648e1361e9fde48fc397d09",
+      "source_content_hash": "c4efd0d49f8297bd6ff5c40ed8bab84c30d807bc5d4d334975c6cd350474af0e",
+      "title": "Inherent Presidential Authority",
+      "topics": [
+        "oversight/executive-power"
+      ],
+      "url": "/editions/2026-11/atlas-c5731fdf908c1f0f5b91a7b7aa4ad2f00890dcb7f96b2ba042a4e63b50a9a819/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-c6c36087a82eb0661e908f8fa2fb324a23b863415b576818a06c3bec3c3432d1.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-c6c36087a82eb0661e908f8fa2fb324a23b863415b576818a06c3bec3c3432d1",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "1e8b4520688bc7a4fab3b6a61baa8dd9402682cc7a9ee6223d55ca97c8660599",
+      "source_content_hash": "4002ab586e88c3af441a8d09c72fd1278466d6c329638a428babe487f977dc2a",
+      "title": "DVR Failure (MCC Tier L Camera)",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-c6c36087a82eb0661e908f8fa2fb324a23b863415b576818a06c3bec3c3432d1/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": {
+        "assessed": "2026-10-19",
+        "basis": [
+          "[[sources/iran-contra-congressional-report-1987]]",
+          "[[sources/walsh-oic-part1-underlying-facts]]",
+          "[[sources/hughes-ryan-amendment-1974]]"
+        ],
+        "change_record": "",
+        "conclusion": "In the Iran-Contra affair, executive-branch officials raised foreign-government and private funds outside the appropriations process to keep up support for the Contras that the Boland Amendments barred appropriated funds from providing.",
+        "confidence": "high",
+        "corroboration": "partial",
+        "counterargument": "The minority report argues that the Boland Amendments did not cover the National Security Council staff and that virtually all of the staff's activities were legal, and the Attorney General's oral view in June 1984 was that urging third countries to help was permissible. On that reading this was lawful diplomacy, not a way around the law; and the Saudi money began in mid-1984, before the October 1984 Boland Amendment.",
+        "response": "The minority disputes legality and the statute's scope, not the funding facts: by its own count about $35 million was raised from mid-1984 to mid-1986, virtually all of it from foreign countries, and it stresses that no substantial appropriated funds were used. So the conclusion is phrased as support appropriated funds could not provide, not as illegal evasion. The mid-1984 timing fits it: by May 1984 the Contras had exhausted the $24 million appropriated for fiscal 1984, and the Saudi contributions were virtually their only funds until March 1985 (Committees' Report).",
+        "source_tier": "primary-multiple",
+        "wep": "VERY LIKELY",
+        "would_revise": [
+          "To LIKELY if the minority report or the Walsh record shows that Congress authorized, or was told at the time of, the third-country solicitations.",
+          "To EVEN CHANCE if the records show the third-country contributions were sought for a purpose unrelated to the end of appropriated Contra aid."
+        ]
+      },
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-c6ea4179be1638fec69ac95ba37198b8347565b3bca675d9d1ff6892d631ed21.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-c6ea4179be1638fec69ac95ba37198b8347565b3bca675d9d1ff6892d631ed21",
+      "reference_status": "assessed",
+      "rights": "CC BY 4.0",
+      "sha256": "501b8b3c2597876ad079d5c8a1265fc3ea1a9a21b5820a5eacdda83da305639e",
+      "source_content_hash": "438d535af0183aa81b3052e65ff5674f038f8d3096386164ba82a573fbe66e7e",
+      "title": "Covert-Action Privatization",
+      "topics": [
+        "oversight/iran-contra"
+      ],
+      "url": "/editions/2026-11/atlas-c6ea4179be1638fec69ac95ba37198b8347565b3bca675d9d1ff6892d631ed21/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive. Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-cd4dee92a43af6af81b80dcbad4df8dec45843e01056a99e028dc2a6cddb4720.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-cd4dee92a43af6af81b80dcbad4df8dec45843e01056a99e028dc2a6cddb4720",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "61293338a05f9ba249acb0dd3f0f1efd67eff4d0a5f855a3e64e7138812ebfae",
+      "source_content_hash": "60cc81ae49663a27ccc7ddd246dd008cc2e88c0071f8225f12d1bb9a202872f0",
+      "title": "Operation Trojan",
+      "topics": [
+        "intelligence/published-accounts"
+      ],
+      "url": "/editions/2026-11/atlas-cd4dee92a43af6af81b80dcbad4df8dec45843e01056a99e028dc2a6cddb4720/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-d01c7891da2cd1b01946d2337151249dd45cd30e47f1299af098f742966344d3.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-d01c7891da2cd1b01946d2337151249dd45cd30e47f1299af098f742966344d3",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "8958f66ebe2a5272041884bb8149ccf3831ddb0e8fa286b0cd5b56324b439cc0",
+      "source_content_hash": "e85469c81134d3efc78cfb76ccb1683b1741d12e99918fe658a1c3c1bc86bd7d",
+      "title": "Contempt of Congress",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-11/atlas-d01c7891da2cd1b01946d2337151249dd45cd30e47f1299af098f742966344d3/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-d151e008a67cac21e1402ad8a19dc3fbc25ff7f39c3c310975e615604d3afa41.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-d151e008a67cac21e1402ad8a19dc3fbc25ff7f39c3c310975e615604d3afa41",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "8ff22c575585a75d04d0ff6155aaa37f76181ad1d6e3a703507b2c08f35acef8",
+      "source_content_hash": "70dd07c14b61ce615ce09ac41e30dd1498eebe56d582ed5739025a07b382d566",
+      "title": "Intelligence Coordinating Group (ICG)",
+      "topics": [
+        "oversight/investigations-1975"
+      ],
+      "url": "/editions/2026-11/atlas-d151e008a67cac21e1402ad8a19dc3fbc25ff7f39c3c310975e615604d3afa41/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-d15b74ff41ca244540c5c7124caeedc0b9af651a0d7a5c926eadefaa5bc4645c.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-d15b74ff41ca244540c5c7124caeedc0b9af651a0d7a5c926eadefaa5bc4645c",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "e38795af20ec17d5fe37d4692cad477e53f906b4117d221b4ab79140e80a7105",
+      "source_content_hash": "18d888510a88163068292d33deeb7653a9c53c39cf149e4e581dac02eb7cee7d",
+      "title": "Department of Justice Office of the Inspector General Audit Authority",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-11/atlas-d15b74ff41ca244540c5c7124caeedc0b9af651a0d7a5c926eadefaa5bc4645c/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-d2b4fcd56933d9ad31fb8ea17bf84613025de659b982bbe858f50a173ead9f9a.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-d2b4fcd56933d9ad31fb8ea17bf84613025de659b982bbe858f50a173ead9f9a",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "db7245bdac6c09b3754e20ffa001d94aba2492e6747ad2ed2c2e2fd9bb9a93af",
+      "source_content_hash": "11fcec3a65e4b1f4fd265850a48239821428057582ec646b428f961c4e76b068",
+      "title": "Grooming Methodology",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-d2b4fcd56933d9ad31fb8ea17bf84613025de659b982bbe858f50a173ead9f9a/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive. Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-d3038e9d5d7c3224be9ef3d59fa2e6f238a6966e3093856534d8ce1d3631a454.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-d3038e9d5d7c3224be9ef3d59fa2e6f238a6966e3093856534d8ce1d3631a454",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "c462b0952f28bacdcf1dc50862b69144c0956cb1b3904917c6b0637a5c24d0ce",
+      "source_content_hash": "448855ae0713eabaa685f9e4bc8159479d542c12e381f04ad52afb13e557d5a7",
+      "title": "TRS (Temporary Relay Station)",
+      "topics": [
+        "intelligence/published-accounts"
+      ],
+      "url": "/editions/2026-11/atlas-d3038e9d5d7c3224be9ef3d59fa2e6f238a6966e3093856534d8ce1d3631a454/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-d96435dc573bddd66705ad8a23737720bc56d00efe328b69dc6c92ab517eac65.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-d96435dc573bddd66705ad8a23737720bc56d00efe328b69dc6c92ab517eac65",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "1a013379068267c987a9c828e6e29003f0e491d61f194be36619f1f6e243993a",
+      "source_content_hash": "e12887eaf24d0400a68fba0b6e2ea3b1450526d9b00d5315016448a7a8db2e71",
+      "title": "Negotiated Oversight",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-11/atlas-d96435dc573bddd66705ad8a23737720bc56d00efe328b69dc6c92ab517eac65/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-d9be6c56b108cc8b4e95c3e4dc25fb6ad49268fec372ddf92b6559048f719e95.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-d9be6c56b108cc8b4e95c3e4dc25fb6ad49268fec372ddf92b6559048f719e95",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "99e6d04d1f062ae122eb3bf9588c8bc7ac9e59fb6bfcf63c21cc850c7bbac2cf",
+      "source_content_hash": "8fbfbfe82c9ab5449f5c2c2b0aa99b2cf2d77d936ebc95bf6fa31b2c6168b275",
+      "title": "SDNY Epstein Investigation",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-d9be6c56b108cc8b4e95c3e4dc25fb6ad49268fec372ddf92b6559048f719e95/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-defa3ea2412eecbce2c4ebc27abf1de9d29d01b0b1e347e8bf0f8a766b715b6e.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-defa3ea2412eecbce2c4ebc27abf1de9d29d01b0b1e347e8bf0f8a766b715b6e",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "13bdf85c638a2d6ac6eb01cdbc1198d800cfc3d4ac89fcf81ad07ca8332d4b45",
+      "source_content_hash": "38c63f80f692dc8cef071c3471dc7a0f19eca49ef9e4bb32696e649373f8fb3e",
+      "title": "MCC Death Investigation",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-defa3ea2412eecbce2c4ebc27abf1de9d29d01b0b1e347e8bf0f8a766b715b6e/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-e19565a32ce0b3775b2ab13bc91c29a1c384c64c47dd81ee039091863d7a072c.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-e19565a32ce0b3775b2ab13bc91c29a1c384c64c47dd81ee039091863d7a072c",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "d99f996013a079d5c6e83c7ae9aab838ee2c391ecc65146ade2a9274ef520107",
+      "source_content_hash": "6d40187bc18da194f0cb7ac4275ad4e38fca32a6ade09f423e2f8519e4c72d33",
+      "title": "Boland Amendment",
+      "topics": [
+        "oversight/iran-contra"
+      ],
+      "url": "/editions/2026-11/atlas-e19565a32ce0b3775b2ab13bc91c29a1c384c64c47dd81ee039091863d7a072c/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-e457116824f85a53eed7b82aba6dd27eb64a8bd414cdd70e77d2da7bae9d5db2.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-e457116824f85a53eed7b82aba6dd27eb64a8bd414cdd70e77d2da7bae9d5db2",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "d1b4cc5d0cd9bf4b230dfbdfb6de11b132679ab2b62363cd9f3657ce3927129e",
+      "source_content_hash": "407e5178a8b0205a74cf276ffc61b8238031420e7ce8af589950ae804197bc32",
+      "title": "COINTELPRO",
+      "topics": [
+        "oversight/investigations-1975",
+        "intelligence/us-programs"
+      ],
+      "url": "/editions/2026-11/atlas-e457116824f85a53eed7b82aba6dd27eb64a8bd414cdd70e77d2da7bae9d5db2/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-e5c32f94b85f134063687213d85ffcf09990bf54b44b0cc3c9c0e12b74e39f20.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-e5c32f94b85f134063687213d85ffcf09990bf54b44b0cc3c9c0e12b74e39f20",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "e387bd31df0e6532c0cd6406568b962ae5b242b705e48c2795b6586b6124ac8b",
+      "source_content_hash": "5b76673343998f8bf92fe41e9d7088df5f696d8fdd0e3032a88db8538e9fa7c0",
+      "title": "Declassification Monopoly",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-11/atlas-e5c32f94b85f134063687213d85ffcf09990bf54b44b0cc3c9c0e12b74e39f20/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-e70d52a1647be5649d9b32db02fbfcbdc2224b482d6bd88cd958de9bb50cd901.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-e70d52a1647be5649d9b32db02fbfcbdc2224b482d6bd88cd958de9bb50cd901",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "9be352c34a20eca46035c8a4b7e9e05fcf385f92ec249bacd73da785791d5a1d",
+      "source_content_hash": "7b910322dc281fedbf80b75047a63a525438cff195924418ab6a1e964ddc1754",
+      "title": "Client List",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-e70d52a1647be5649d9b32db02fbfcbdc2224b482d6bd88cd958de9bb50cd901/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-e89fe373b22fc6099fdd0cb85932b8934cfa12d4879c726b8aeaaa722da8f7c6.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-e89fe373b22fc6099fdd0cb85932b8934cfa12d4879c726b8aeaaa722da8f7c6",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "24efb65465f5ec561dae82a9729f75f75dd78bca312cf4e15e4268ed2af994d0",
+      "source_content_hash": "880c35abb4600e1fab0d37ce2167619bf967486db21f9af49538ba1a9eb7537f",
+      "title": "Trafficking Victims Protection Act",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-e89fe373b22fc6099fdd0cb85932b8934cfa12d4879c726b8aeaaa722da8f7c6/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-efa89019606c27a40edcddf139f7c06d80c404836a79dd6b57a3f60ee84380d4.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-efa89019606c27a40edcddf139f7c06d80c404836a79dd6b57a3f60ee84380d4",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "7c4cbbfb1a5259ceaa56fdee769f707bb33ae6e4bd73fe9c0d1d7c538c47292c",
+      "source_content_hash": "5ccf725fb57cd6330627e0eb9ebb992282e6aa3e18bbadbf8cf3b568ff882eb5",
+      "title": "Arms-for-Hostages (Iran Initiative)",
+      "topics": [
+        "oversight/iran-contra"
+      ],
+      "url": "/editions/2026-11/atlas-efa89019606c27a40edcddf139f7c06d80c404836a79dd6b57a3f60ee84380d4/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-efc6ec3160868faad33319f4fa2e150764b247ce0d21f0db6d693eae43cc1c7c.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-efc6ec3160868faad33319f4fa2e150764b247ce0d21f0db6d693eae43cc1c7c",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "5f8bc5639f0828e8bb57eb40e09af6cea887719af8b17fdbc5e3d2b2db1fbdf2",
+      "source_content_hash": "6a585475d6c46045a73a1b3cb8d6857220c2c38b4503f1a9ef00b364ec1c2bf0",
+      "title": "Maxwell's Whereabouts, July 2019 to July 2020",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-efc6ec3160868faad33319f4fa2e150764b247ce0d21f0db6d693eae43cc1c7c/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive. Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-f05ca8e1ac4d32fc77166ffb8b6002cfb8caed96fd927e3056486d975b4de05a.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-f05ca8e1ac4d32fc77166ffb8b6002cfb8caed96fd927e3056486d975b4de05a",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "03690fb8cfd802a9739c4296717895add71208817f2e53af8332ffcf9c2062df",
+      "source_content_hash": "3837e9caedbb7762348dbd746bab7b262bec82b1b78e6251a9237704ac7b0422",
+      "title": "Nes Ziyyona Facility",
+      "topics": [
+        "intelligence/published-accounts"
+      ],
+      "url": "/editions/2026-11/atlas-f05ca8e1ac4d32fc77166ffb8b6002cfb8caed96fd927e3056486d975b4de05a/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-fc3465adda7a3213e6919994a17aed9cb17401f216256c0a9f065ee2e89935c3.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-fc3465adda7a3213e6919994a17aed9cb17401f216256c0a9f065ee2e89935c3",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "ebdbe9b1eda763bdbc057fb35398ad2602f710c999cea6e9222e8f01c9b538e0",
+      "source_content_hash": "1654763939e4160f159e042e78eca4693cb73743404e483cbdd7b6b9fce272f8",
+      "title": "Iran-Contra Second Channel",
+      "topics": [
+        "oversight/iran-contra"
+      ],
+      "url": "/editions/2026-11/atlas-fc3465adda7a3213e6919994a17aed9cb17401f216256c0a9f065ee2e89935c3/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-fdb84220bf71c9f3afc1b707325e69b856d492cdbe4f4025671953dc8c45a420.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-fdb84220bf71c9f3afc1b707325e69b856d492cdbe4f4025671953dc8c45a420",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "66ae7f3c759110919d89f02aafbbc5c272be902feed09033a1cd988e11e2f811",
+      "source_content_hash": "f29199d1d6af8c601616e97eed9312cc39c81746ecb86ac1e65fd550c8dc3b38",
+      "title": "Suicide Watch Protocols",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-11/atlas-fdb84220bf71c9f3afc1b707325e69b856d492cdbe4f4025671953dc8c45a420/"
+    },
+    {
+      "approved_at": "2026-11-01T15:57:02Z",
+      "assessment": null,
+      "banner": "Not everything on this page is footnoted. Our citation check covers the main text, but not headings, the lists of related entries and sources, or open questions, which may state facts without a footnote. Check the footnoted text or the source before relying on them.",
+      "path": "editions/2026-11/atlas-fe2fc14544fe627ae724e142b0da58537169218f8133e6e9a209c20bc2d163f2.md",
+      "provenance": "Owner-approved page at the recorded source commit and blob.",
+      "public_id": "atlas-fe2fc14544fe627ae724e142b0da58537169218f8133e6e9a209c20bc2d163f2",
+      "reference_status": "reference",
+      "rights": "CC BY 4.0",
+      "sha256": "3af502841f1068b7aa7af1dc3e16b567201023936622175d3e66545226a95b77",
+      "source_content_hash": "ee056867a0049cfa1f79a2e5a0c1d5f748a88a84fc8db84a4ec375e224d09e79",
+      "title": "Intelligence Budget Secrecy",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-11/atlas-fe2fc14544fe627ae724e142b0da58537169218f8133e6e9a209c20bc2d163f2/"
+    }
+  ],
+  "source_cutoff": {
+    "fingerprint": "9d3bde22af08324b76b91c11cbaacc2ca61fe702e7895e479a29bf6ab091da8b",
+    "git_head": "228b68682451c32a6fa8ddc7554f9979bff42dd0",
+    "record_id": "2026-11"
+  }
+}

@@ -1,10 +1,10 @@
 # Corrections and Removal
 
-Edition label: `2026-10`
+Edition label: `2026-11`
 
 ## Corrections policy
 
-*Applies to Parallax Publications and the Parallax Research Atlas.*
+*Applies to DisclosureWorks Publications and the DisclosureWorks Sourcebook.*
 
 ### 1. The commitment
 
@@ -21,7 +21,7 @@ in it and why.
   reproduce.
 - A provenance error — a document, Bates number, or hash that does not resolve to what we
   claimed.
-- In the Parallax Research Atlas: a schema violation, a broken stable ID, or a manifest
+- In the DisclosureWorks Sourcebook: a schema violation, a broken stable ID, or a manifest
   checksum that does not match its object.
 
 Changes of interpretation, added context, and revised analysis are **not** corrections. They
@@ -41,19 +41,19 @@ You do not need to be the subject of the material to report an error in it.
 General feedback, such as a comment, a question or a suggestion for future work, also goes to
 `corrections@disclosureworks.ai`, with the subject line `Feedback`. We read it, but we do not log it
 as a correction, and we do not promise a reply. If you think something we published is wrong,
-report it as a correction under § 3, so that it gets a severity and a deadline.
+report it as a correction under § 3, so that it gets a severity and a target.
 
 ### 4. Triage
 
-We acknowledge within **three working days**. Severity sets the deadline for fixing:
+We aim to acknowledge within **a few working days**. Severity sets our target for fixing:
 
 | Severity | Meaning | Target |
 |---|---|---|
-| **1** | The error misstates a fact about an identifiable person, or a core finding does not survive it | 72 hours |
-| **2** | A supporting fact, figure, citation, or quotation is wrong | 14 days |
-| **3** | Typographic, formatting, link, or presentational | Next edition |
+| **1** | The error misstates a fact about an identifiable person, or a core finding does not survive it | A few days |
+| **2** | A supporting fact, figure, citation, or quotation is wrong | A few weeks |
+| **3** | Typographic, formatting, link, or presentational | Next release |
 
-A severity-1 report that we cannot resolve inside 72 hours gets an
+A severity-1 report that we cannot resolve within a few days gets an
 [interim public notice](corrections/index.md#under-review) saying the claim is under review,
 rather than silence while we work.
 
@@ -67,7 +67,7 @@ place. Instead:
 2. A **patch release** of the affected edition is published carrying the fix — for example
    `2026-10-patch-1`. The original edition remains reachable at its own URL.
 3. The **release-history** page and the `latest` pointer are updated.
-4. In the Parallax Research Atlas, the manifest, object checksums, and any dependent derived
+4. In the DisclosureWorks Sourcebook, the manifest, object checksums, and any dependent derived
    index are regenerated, and the affected stable IDs are named in the notice.
 
 The correction notice is permanent. It is not removed in later editions, and it is not
@@ -92,7 +92,7 @@ than to rely on the correction route.
 
 ## Removals policy
 
-*Applies to Parallax Publications and the Parallax Research Atlas.*
+*Applies to DisclosureWorks Publications and the DisclosureWorks Sourcebook.*
 
 ### 1. Preference order
 
@@ -120,9 +120,8 @@ We will remove or redact material on any of these grounds:
 2. **Identification of a person who was a minor** at the time of the events described.
 3. **Material published in error** — anything restricted, sealed, embargoed, or unreviewed
    that reached a public surface. This is also an incident; see [SECURITY.md](SECURITY.md).
-4. **Sensitive personal data** — government identity numbers, financial account numbers,
-   medical information, home addresses, personal phone numbers and email addresses, and
-   dates of birth of private individuals.
+4. **Personal data of victims, survivors and minors**, and medical information about
+   private individuals who are not subjects of the record.
 5. **A court order** requiring removal, or material we learn is under seal.
 6. **A credible, specific safety risk** to an identifiable person created or materially
    increased by our publication.
@@ -150,7 +149,7 @@ response on the record. We would rather publish a disagreement than quietly bury
 
 1. **Request** to `corrections@disclosureworks.ai`, identifying the edition, the page or object ID, the
    material, and the ground relied on.
-2. **Acknowledgement within three working days.** For grounds 1, 2, and 6 we acknowledge and
+2. **Acknowledgement, which we aim to send within a few working days.** For grounds 1, 2, and 6 we acknowledge and
    act to suppress the specific material immediately, before completing the review.
 3. **Review** by the publication owner against § 2 and § 3.
 4. **Decision**, in writing, to the requester: granted in full, granted in part, or declined
@@ -197,7 +196,7 @@ holding a dead link.
 ### 6. The limit we cannot engineer around — read this before relying on removal
 
 Our editions are published under **CC BY 4.0** and are explicitly designed to be copied,
-mirrored, and ingested by automated research agents. The Parallax Research Atlas exists to
+mirrored, and ingested by automated research agents. The DisclosureWorks Sourcebook exists to
 be consumed programmatically.
 
 **Removal from our surface does not retract copies.** We can remove material from the

@@ -19,7 +19,7 @@ def run_build(
     src: Path,
     out: Path,
     surface: str = "atlas",
-    *extra: str,
+    *extra: str, supply_feed: bool = True,
 ) -> subprocess.CompletedProcess[str]:
     return subprocess.run(
         [
@@ -40,6 +40,12 @@ def run_build(
         check=False,
     )
 
+
+def supply_test_feed(src):
+    if (src / 'editions').is_dir() and any(p.name >= '2026-11' for p in (src / 'editions').iterdir()):
+        feed = src / 'feed.xml'
+        if not feed.exists():
+            feed.write_text('<feed xmlns="http://www.w3.org/2005/Atom"><id>https://example.test/feed.xml</id><title>Fixture</title><updated>2026-11-05T00:00:00Z</updated><entry><id>https://example.test/editions/2026-11/</id><title>2026-11</title><updated>2026-11-05T00:00:00Z</updated></entry></feed>')
 
 def tree_hashes(root: Path) -> dict[str, str]:
     return {
@@ -114,7 +120,7 @@ def test_build_is_deterministic_and_complete(tmp_path: Path) -> None:
     assert 'href="/docs/one/"' in edition
     assert "Edition 2026-10" in edition
     page = (first / "docs" / "one" / "index.html").read_text(encoding="utf-8")
-    assert "Plain One — Parallax Publications" in page
+    assert "Plain One — DisclosureWorks Publications" in page
     assert "title: Plain One" not in page
     assert "<table>" in page
     assert "footnote" in page.lower()
@@ -181,8 +187,8 @@ def test_empty_output_and_previous_build_are_allowed(tmp_path: Path) -> None:
 @pytest.mark.parametrize(
     ("surface", "site_title"),
     [
-        ("atlas", "Parallax Research Atlas"),
-        ("publications", "Parallax Publications"),
+        ("atlas", "DisclosureWorks Sourcebook"),
+        ("publications", "DisclosureWorks Publications"),
     ],
 )
 def test_home_page_title_does_not_repeat_site_title(
@@ -203,11 +209,11 @@ def test_area_hubs_include_open_descendants_and_mapping(tmp_path: Path) -> None:
     src.mkdir()
     (src / "editions" / "2026-10").mkdir(parents=True)
     (src / "editions" / "2026-10" / "index.md").write_text("# Edition\n", encoding="utf-8")
-    (src / "direct.md").write_text(
+    (src / "editions/2026-10/direct.md").write_text(
         "---\ntitle: Direct\npublic_id: atlas-direct\nareas: [oversight]\n---\n\n# Direct\n",
         encoding="utf-8",
     )
-    (src / "mapped.md").write_text(
+    (src / "editions/2026-10/mapped.md").write_text(
         "---\ntitle: Mapped\npublic_id: atlas-mapped\n---\n\n# Mapped\n",
         encoding="utf-8",
     )
@@ -237,12 +243,12 @@ def test_area_hubs_include_open_descendants_and_mapping(tmp_path: Path) -> None:
     child = (out / "areas" / "oversight" / "iran-contra" / "index.html").read_text(
         encoding="utf-8"
     )
-    assert "/direct/" in parent and "/mapped/" in parent
-    assert "/mapped/" in child and "/direct/" not in child
+    assert "/editions/2026-10/direct/" in parent and "/editions/2026-10/mapped/" in parent
+    assert "/editions/2026-10/mapped/" in child and "/editions/2026-10/direct/" not in child
     assert 'href="/areas/oversight/iran-contra/"' in parent
     assert 'href="/areas/oversight/"' in child
     assert not (out / "areas" / "closed").exists()
-    assert 'href="/areas/"' in (out / "mapped" / "index.html").read_text(encoding="utf-8")
+    assert 'href="/areas/"' in (out / "editions/2026-10/mapped" / "index.html").read_text(encoding="utf-8")
 
 
 def test_area_index_is_recursive_and_navigation_is_deterministic(tmp_path: Path) -> None:
@@ -662,6 +668,7 @@ def test_generated_indexes_show_actual_edition_labels_and_preserve_sources(
         {"slug": "parent/child", "title": "Child", "parent": "parent", "status": "open"},
         {"slug": "empty", "title": "Empty", "parent": None, "status": "open"},
     ]), encoding="utf-8")
+    supply_test_feed(src)
     before = tree_hashes(src)
     out = tmp_path / "out"
     extra = ["--areas", str(areas)] if surface == "atlas" else []
@@ -696,7 +703,7 @@ def test_stylesheet_makes_no_external_requests() -> None:
 
 @pytest.mark.parametrize(
     ("surface", "section_label"),
-    [("atlas", "Atlas"), ("publications", "Publications")],
+    [("atlas", "Sourcebook"), ("publications", "Publications")],
 )
 def test_header_home_opens_the_parallax_index_and_section_link_opens_this_site(
     tmp_path: Path, surface: str, section_label: str

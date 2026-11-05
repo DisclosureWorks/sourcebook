@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "char_end": {
+      "minimum": 0,
+      "type": "integer"
+    },
+    "char_start": {
+      "minimum": 0,
+      "type": "integer"
+    },
+    "chunk_id": {
+      "type": "string"
+    },
+    "heading_path": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "public_id": {
+      "type": "string"
+    },
+    "sha256": {
+      "pattern": "^[0-9a-f]{64}$",
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "public_id",
+    "chunk_id",
+    "heading_path",
+    "char_start",
+    "char_end",
+    "sha256",
+    "text"
+  ],
+  "title": "Sourcebook heading-delimited chunk record",
+  "type": "object"
+}

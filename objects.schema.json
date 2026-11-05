@@ -1,0 +1,168 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "dependentRequired": {
+    "assessment": [
+      "reference_status"
+    ],
+    "reference_status": [
+      "assessment"
+    ]
+  },
+  "properties": {
+    "approved_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "assessment": {
+      "additionalProperties": false,
+      "properties": {
+        "assessed": {
+          "format": "date",
+          "type": "string"
+        },
+        "basis": {
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1,
+          "type": "array"
+        },
+        "change_record": {
+          "type": "string"
+        },
+        "conclusion": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "confidence": {
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        "corroboration": {
+          "enum": [
+            "independent",
+            "partial",
+            "single-source",
+            "contradicted"
+          ]
+        },
+        "counterargument": {
+          "type": "string"
+        },
+        "response": {
+          "type": "string"
+        },
+        "source_tier": {
+          "enum": [
+            "primary-multiple",
+            "primary-single",
+            "secondary",
+            "journalistic",
+            "speculative"
+          ]
+        },
+        "wep": {
+          "enum": [
+            "ALMOST CERTAINLY",
+            "VERY LIKELY",
+            "LIKELY",
+            "EVEN CHANCE",
+            "UNLIKELY",
+            "VERY UNLIKELY",
+            "REMOTE",
+            "INSUFFICIENT BASIS"
+          ]
+        },
+        "would_revise": {
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        }
+      },
+      "required": [
+        "conclusion",
+        "wep",
+        "confidence",
+        "source_tier",
+        "corroboration",
+        "basis",
+        "would_revise",
+        "counterargument",
+        "response",
+        "assessed",
+        "change_record"
+      ],
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "banner": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "path": {
+      "type": "string"
+    },
+    "provenance": {
+      "type": "string"
+    },
+    "public_id": {
+      "type": "string"
+    },
+    "reference_status": {
+      "enum": [
+        null,
+        "reference",
+        "assessed"
+      ]
+    },
+    "rights": {
+      "type": "string"
+    },
+    "sha256": {
+      "pattern": "^[0-9a-f]{64}$",
+      "type": "string"
+    },
+    "source_content_hash": {
+      "pattern": "^[0-9a-f]{64}$",
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "topics": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "url": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "public_id",
+    "title",
+    "url",
+    "path",
+    "sha256",
+    "source_content_hash",
+    "topics",
+    "banner",
+    "provenance",
+    "rights",
+    "approved_at"
+  ],
+  "title": "Sourcebook object record (edition formats 2 and 3)",
+  "type": "object"
+}

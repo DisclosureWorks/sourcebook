@@ -1,8 +1,8 @@
 # Removals Log
 
-Edition label: `2026-10`
+Edition label: `2026-11`
 
-This page is the public removals log for the Parallax Research Atlas.
+This page is the public removals log for the DisclosureWorks Sourcebook.
 [The removals policy](../corrections-removal.md#removals-policy) § 5 sets what an entry holds:
 "Each entry records the edition, the date, the ground category, and the scope of what was
 removed. **It does not record the identity of the subject or the requester**, and it does not

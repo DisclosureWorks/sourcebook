@@ -3,7 +3,7 @@ Parallax public site builder
 Renders either public repository's Markdown into a static site in _site/ for Cloudflare Pages.
 Use the command for the repository being built:
 
-    python3 .site-build/build.py --src . --out _site --surface atlas --base-url https://atlas.disclosureworks.ai
+    python3 .site-build/build.py --src . --out _site --surface atlas --base-url https://sourcebook.disclosureworks.ai
     python3 .site-build/build.py --src . --out _site --surface publications --base-url https://publications.disclosureworks.ai
 
 Requires Python 3.12 and pandoc 3.x. The build skips hidden paths (this folder included) and refuses to

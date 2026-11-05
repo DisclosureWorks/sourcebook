@@ -1,10 +1,10 @@
-# Latest Atlas Edition
+# Latest Sourcebook Edition
 
-Visible edition label: `2026-10`
+Visible edition label: `2026-11`
 
 Pointer target:
 
-- `/editions/2026-10/`
+- `/editions/2026-11/`
 
 This pointer moves only when a later accepted edition or patch release is
 published.

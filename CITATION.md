@@ -1,8 +1,14 @@
 # Citation Guide
 
-Edition label: `2026-10`
+Edition label: `2026-11`
 
-This site and its public source repository, [github.com/DisclosureWorks/parallax-atlas](https://github.com/DisclosureWorks/parallax-atlas), publish the public Research Atlas.
+This repository publishes the DisclosureWorks Sourcebook.
+
+Before citing a statement, check that it carries a footnote. Headings, the lists of related entries and sources, and open questions may state facts without one.
+
+Recommended citation for one page:
+
+DisclosureWorks Sourcebook, "<entry title>", edition <label>, <URL>, accessed <date>.
 
 Required citation fields:
 

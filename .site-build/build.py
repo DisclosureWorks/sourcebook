@@ -19,13 +19,17 @@ from dataclasses import dataclass
 from typing import Any
 from urllib.parse import quote, unquote, urlsplit, urlunsplit
 
+from license_page import license_html
+from delivery_check import edition_key, require_current_lists
+from note_display import require_notes, require_atom, format_assessment_html, require_headings, require_readable_names, require_entry_text
+
 
 SITE_TITLES = {
-    "atlas": "Parallax Research Atlas",
-    "publications": "Parallax Publications",
+    "atlas": "DisclosureWorks Sourcebook",
+    "publications": "DisclosureWorks Publications",
 }
 SECTION_LABELS = {
-    "atlas": "Atlas",
+    "atlas": "Sourcebook",
     "publications": "Publications",
 }
 DEFAULT_HOME_URL = "https://disclosureworks.ai/"
@@ -40,6 +44,15 @@ RESERVED_OUTPUTS = {
     PurePosixPath("build-manifest.json"),
     PurePosixPath("assets/site.css"),
 }
+# DisclosureWorks brand files: output path -> file in .site-build/assets/brand.
+BRAND_ASSETS = {
+    PurePosixPath("favicon.ico"): "favicon.ico",
+    PurePosixPath("assets/brand/favicon.svg"): "favicon.svg",
+    PurePosixPath("assets/brand/apple-touch-icon.png"): "apple-touch-icon.png",
+    PurePosixPath("assets/brand/disclosureworks-wordmark-horizontal-light.svg"): "disclosureworks-wordmark-horizontal-light.svg",
+    PurePosixPath("assets/brand/disclosureworks-wordmark-horizontal-dark.svg"): "disclosureworks-wordmark-horizontal-dark.svg",
+}
+RESERVED_OUTPUTS |= set(BRAND_ASSETS)
 
 
 class BuildError(Exception):
@@ -60,6 +73,7 @@ class Page:
     title: str
     public_id: str | None
     areas: list[str]
+    note_source: str = ""
 
 
 @dataclass(frozen=True)
@@ -434,7 +448,7 @@ def generated_page(
         "t": "MetaList",
         "c": [{"t": "MetaString", "c": edition} for edition in editions or []],
     }
-    return Page(label, None, output, document, title, None, [])
+    return Page(label, None, output, document, title, None, [], markdown)
 
 
 def edition_for_output(output: PurePosixPath) -> str | None:
@@ -474,11 +488,37 @@ def render_page(
     edition = edition_for_output(page.output)
     if edition:
         command.extend(["--variable", f"edition-label={edition}"])
+    parts = page.output.parts
+    frozen_october = parts[:2] == ("editions", "2026-10") or (
+        len(parts) >= 4 and parts[0] in {"research", "legislation"}
+        and parts[2] == "2026-10"
+    )
+    if not frozen_october:
+        # Frozen editions and paper HTML retain their hash-bound original head.
+        paper = len(parts) >= 3 and parts[0] in {"research", "legislation"}
+        if not paper:
+            command.extend(["--variable", "preload-fonts=true", "--variable", "html-license=true"])
+        command.extend(["--variable", "has-contact=true"])
+        if chrome_urls.get("feed") and not (len(parts) >= 4 and parts[0] in {"research", "legislation"}):
+            command.extend(["--variable", "has-feed=true"])
     for key, enabled in sorted(chrome.items()):
         if enabled:
             command.extend(["--variable", f"{key}=true"])
     serialized = json.dumps(page.document, ensure_ascii=False, sort_keys=True)
     rendered = run_pandoc(command, serialized, page.source_label)
+    if not frozen_october:
+        rendered = format_assessment_html(rendered)
+    # Preserve all paper HTML bytes; classify paper tables through canonical URL CSS.
+    if chrome_urls.get('check-notes') and (edition in (None, chrome_urls['current-edition'])):
+        try:
+            require_notes(page.note_source, rendered)
+            require_headings(page.note_source, rendered)
+            require_readable_names(rendered, all_lists=len(parts) >= 4 and parts[0] == 'editions')
+            if edition == '2026-11' and len(parts) >= 4 and parts[0] == 'editions':
+                require_entry_text(rendered, markdown=page.note_source, raw_name_hashes=json.loads(
+                    (Path(__file__).resolve().parent / "entry-name-hashes.json").read_text()))
+        except ValueError as exc:
+            raise BuildError(page.source_label + ': ' + str(exc)) from exc
     write_text(destination, rendered)
 
 
@@ -565,7 +605,8 @@ def build(args: argparse.Namespace) -> None:
     script_root = Path(__file__).resolve().parent
     template = script_root / "templates" / "page.html"
     stylesheet = script_root / "assets" / "site.css"
-    for required in (template, stylesheet):
+    brand_files = {rel: script_root / "assets" / "brand" / name for rel, name in BRAND_ASSETS.items()}
+    for required in (template, stylesheet, *brand_files.values()):
         if not required.is_file():
             raise BuildError(f"{required}: required build asset is missing")
 
@@ -598,11 +639,22 @@ def build(args: argparse.Namespace) -> None:
     area_registry = load_areas(args.areas) if args.areas else {}
     page_area_map = load_page_areas(args.page_areas) if args.page_areas and args.areas else {}
 
-    mapped_stem_sources: dict[str, list[str]] = {}
+    editions = {edition_for_output(rel) for rel, _ in source_files} - {None}
+    current_edition = max(editions, key=edition_key, default=None)
+    frozen_page_areas = {}
+    for edition in sorted(editions - {current_edition}):
+        manifest = src / "editions" / edition / "manifest.json"
+        if manifest.is_file():
+            try:
+                for page in json.loads(manifest.read_text(encoding="utf-8"))["pages"]:
+                    frozen_page_areas[page["path"]] = page["topics"]
+            except (OSError, ValueError, KeyError, TypeError) as exc:
+                raise BuildError(f"{manifest}: invalid frozen edition area metadata") from exc
+    mapped_stem_sources: dict[tuple[str, str], list[str]] = {}
     for rel, _ in source_files:
         if rel.suffix == ".md" and rel.stem in page_area_map:
-            mapped_stem_sources.setdefault(rel.stem, []).append(rel.as_posix())
-    for stem, sources in sorted(mapped_stem_sources.items()):
+            mapped_stem_sources.setdefault((edition_for_output(rel) or "", rel.stem), []).append(rel.as_posix())
+    for (_, stem), sources in sorted(mapped_stem_sources.items()):
         if len(sources) > 1:
             raise BuildError(
                 f"ambiguous page-area stem {stem!r}: " + ", ".join(sorted(sources))
@@ -613,6 +665,7 @@ def build(args: argparse.Namespace) -> None:
     reserved: dict[PurePosixPath, str] = {}
     inputs: dict[str, str] = {}
     matched_page_area_keys: set[str] = set()
+    mapped_public_ids: set[tuple[str, str]] = set()
     for rel, path in source_files:
         inputs[f"src/{rel.as_posix()}"] = sha256_file(path)
         if rel.suffix == ".md":
@@ -630,21 +683,31 @@ def build(args: argparse.Namespace) -> None:
             assigned: list[str] = []
             if args.areas:
                 public_id = metadata_scalar(meta, "public_id", rel.as_posix())
+                if public_id and public_id in page_area_map:
+                    identity = (edition_for_output(rel) or "", public_id)
+                    if identity in mapped_public_ids:
+                        raise BuildError(f"{rel.as_posix()}: ambiguous page-area public id {public_id!r}")
+                    mapped_public_ids.add(identity)
                 frontmatter_areas = metadata_list(meta, "areas", rel.as_posix())
                 page_area_key: str | None = None
-                if frontmatter_areas is not None:
+                is_current = edition_for_output(rel) in (None, current_edition)
+                if rel.as_posix() in frozen_page_areas:
+                    assigned = frozen_page_areas[rel.as_posix()]
+                elif frontmatter_areas is not None:
                     assigned = frontmatter_areas
-                elif public_id and public_id in page_area_map:
+                elif is_current and public_id and public_id in page_area_map:
                     page_area_key = public_id
                     assigned = page_area_map[public_id]
                 elif rel.as_posix() in page_area_map:
                     page_area_key = rel.as_posix()
                     assigned = page_area_map[rel.as_posix()]
-                elif rel.stem in page_area_map:
+                elif is_current and rel.stem in page_area_map:
                     page_area_key = rel.stem
                     assigned = page_area_map[rel.stem]
                 if page_area_key is not None:
                     matched_page_area_keys.add(page_area_key)
+                if args.strict_page_areas and (public_id or rel.stem.startswith("atlas-")) and not assigned:
+                    raise BuildError(f"{rel.as_posix()}: public id has no area")
                 for slug in assigned:
                     if slug not in area_registry:
                         raise BuildError(f"{rel.as_posix()}: page names unknown area {slug}")
@@ -652,7 +715,7 @@ def build(args: argparse.Namespace) -> None:
                     raise BuildError(f"{rel.as_posix()}: all assigned areas are closed")
             output = markdown_output(rel)
             reserve_output(reserved, output, rel.as_posix())
-            pages.append(Page(rel.as_posix(), rel, output, document, title, public_id, assigned))
+            pages.append(Page(rel.as_posix(), rel, output, document, title, public_id, assigned, markdown))
         else:
             reserve_output(reserved, rel, rel.as_posix())
             copies.append((rel, path))
@@ -705,7 +768,8 @@ def build(args: argparse.Namespace) -> None:
     if edition_ids and PurePosixPath("editions/index.html") not in reserved:
         body = ["# Editions", ""]
         body.extend(
-            f"- {markdown_link(edition, f'/editions/{edition}/')}" for edition in edition_ids
+            f"- {markdown_link(edition, f'/editions/{edition}/')}"
+            for edition in sorted(edition_ids, key=edition_key, reverse=True)
         )
         body.append("")
         page = generated_page(
@@ -725,7 +789,9 @@ def build(args: argparse.Namespace) -> None:
         )
         reserve_output(reserved, index_page.output, index_page.source_label)
         pages.append(index_page)
-        source_pages = [page for page in pages if page.relative_source is not None]
+        source_pages = [page for page in pages if page.relative_source is not None
+                        and (edition_for_output(page.output) == current_edition
+                             if current_edition else edition_for_output(page.output) is None)]
         for area in sorted(open_areas, key=lambda item: item.slug):
             members = []
             for page in source_pages:
@@ -769,9 +835,24 @@ def build(args: argparse.Namespace) -> None:
             reserve_output(reserved, hub.output, hub.source_label)
             pages.append(hub)
 
+    if (src / "LICENSE").is_file():
+        page = generated_page("", "License", PurePosixPath("license/index.html"), "generated:license")
+        page.document["blocks"] = [{"t": "RawBlock", "c": ["html", license_html(
+            (src / "LICENSE").read_text(encoding="utf-8"))]}]
+        reserve_output(reserved, page.output, page.source_label)
+        pages.append(page)
+
     for special in RESERVED_OUTPUTS:
         reserve_output(reserved, special, f"generated:{special.as_posix()}")
 
+    feed = src / 'feed.xml'
+    if current_edition and edition_key(current_edition) >= edition_key('2026-11') and not feed.is_file():
+        raise BuildError('newest edition has no approved Atom feed')
+    if feed.is_file():
+        try:
+            require_atom(feed.read_bytes())
+        except Exception as exc:
+            raise BuildError('invalid Atom feed') from exc
     clean_output(out)
     for rel, source in copies:
         destination = out / rel.as_posix()
@@ -781,6 +862,10 @@ def build(args: argparse.Namespace) -> None:
     stylesheet_destination = out / "assets" / "site.css"
     stylesheet_destination.parent.mkdir(parents=True, exist_ok=True)
     shutil.copyfile(stylesheet, stylesheet_destination)
+    for rel, source in brand_files.items():
+        destination = out / rel.as_posix()
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(source, destination)
 
     planned = set(reserved)
     chrome = {
@@ -795,7 +880,9 @@ def build(args: argparse.Namespace) -> None:
         render_page(
             page, out / page.output.as_posix(), template, SITE_TITLES[args.surface], chrome,
             base_url + clean_url_for_output(page.output),
-            {"home-url": home_url, "section-label": SECTION_LABELS[args.surface]},
+            {"home-url": home_url, "section-label": SECTION_LABELS[args.surface],
+             "feed": feed.is_file(), "current-edition": current_edition,
+             "check-notes": current_edition and edition_key(current_edition) >= edition_key('2026-11')},
         )
 
     headers = """/*
@@ -803,6 +890,12 @@ def build(args: argparse.Namespace) -> None:
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
   X-Frame-Options: DENY
+
+/LICENSE
+  Content-Type: text/plain; charset=utf-8
+
+/assets/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
 """
     write_text(out / "_headers", headers)
 
@@ -820,10 +913,21 @@ def build(args: argparse.Namespace) -> None:
     )
 
     validate_html(out)
+    entry_ids = {clean_url_for_output(page.output).strip('/'): page.public_id or page.relative_source.stem
+                 for page in pages if page.relative_source and edition_for_output(page.output)
+                 and page.relative_source.name != 'index.md'}
+    try:
+        require_current_lists(out, current_edition, base_url, entry_ids)
+    except ValueError as exc:
+        raise BuildError(str(exc)) from exc
 
+    inputs["@builder/note_display.py"] = sha256_file(script_root / "note_display.py")
+    inputs["@builder/license_page.py"] = sha256_file(script_root / "license_page.py")
     inputs["@builder/build.py"] = sha256_file(Path(__file__).resolve())
     inputs["@builder/templates/page.html"] = sha256_file(template)
     inputs["@builder/assets/site.css"] = sha256_file(stylesheet)
+    for rel, source in brand_files.items():
+        inputs[f"@builder/assets/brand/{source.name}"] = sha256_file(source)
     if args.areas:
         inputs["@config/areas.json"] = sha256_file(args.areas)
     if args.page_areas and args.areas:

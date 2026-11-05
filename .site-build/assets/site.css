@@ -1,4 +1,99 @@
-/* Parallax public sites: reading stylesheet. System fonts only; no external requests. */
+@font-face {
+  font-family: "Source Serif 4 Fallback";
+  src: local("Times New Roman"), local("Liberation Serif");
+  font-weight: 400;
+  font-style: normal;
+  size-adjust: 109.267284%;
+  ascent-override: 94.813375%;
+  descent-override: 30.658765%;
+  line-gap-override: 0.000000%;
+}
+
+@font-face {
+  font-family: "Source Serif 4 Fallback";
+  src: local("Times New Roman Italic"), local("Liberation Serif Italic");
+  font-weight: 400;
+  font-style: italic;
+  size-adjust: 102.300846%;
+  ascent-override: 101.269935%;
+  descent-override: 32.746552%;
+  line-gap-override: 0.000000%;
+}
+
+@font-face {
+  font-family: "Source Serif 4 Fallback";
+  src: local("Times New Roman Bold"), local("Liberation Serif Bold");
+  font-weight: 600;
+  font-style: normal;
+  size-adjust: 105.850260%;
+  ascent-override: 97.874110%;
+  descent-override: 31.648482%;
+  line-gap-override: 0.000000%;
+}
+
+@font-face {
+  font-family: "Source Sans 3 Fallback";
+  src: local("Arial"), local("Liberation Sans");
+  font-weight: 400;
+  font-style: normal;
+  size-adjust: 92.677852%;
+  ascent-override: 107.900645%;
+  descent-override: 35.175610%;
+  line-gap-override: 0.000000%;
+}
+
+@font-face {
+  font-family: "Source Sans 3 Fallback";
+  src: local("Arial Bold"), local("Liberation Sans Bold");
+  font-weight: 600;
+  font-style: normal;
+  size-adjust: 89.273452%;
+  ascent-override: 112.015384%;
+  descent-override: 36.517015%;
+  line-gap-override: 0.000000%;
+}
+
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("fonts/source-serif-4/SourceSerif4-Regular.ttf.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("fonts/source-serif-4/SourceSerif4-It.ttf.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("fonts/source-serif-4/SourceSerif4-Semibold.ttf.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Sans 3";
+  src: url("fonts/source-sans-3/SourceSans3-Regular.ttf.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Sans 3";
+  src: url("fonts/source-sans-3/SourceSans3-Semibold.ttf.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Parallax public sites: reading stylesheet. Self-hosted fonts; no external requests. */
 
 :root {
   color-scheme: light dark;
@@ -12,8 +107,8 @@
   --badge-bg: #e8eff1;
   --badge-text: #0a4a5e;
   --focus: #b3470c;
-  --serif: ui-serif, Georgia, Cambria, "Times New Roman", serif;
-  --sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --serif: "Source Serif 4", "Source Serif 4 Fallback", "Times New Roman", "Liberation Serif", serif;
+  --sans: "Source Sans 3", "Source Sans 3 Fallback", Arial, "Liberation Sans", sans-serif;
   --mono: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
   --measure: 42rem;
   --wide: 64rem;
@@ -253,19 +348,22 @@ h6 {
 }
 
 h1 {
-  font-size: clamp(1.75rem, 1.3rem + 2vw, 2.35rem);
+  font-size: 1.75rem;
+  font-weight: 600;
+  line-height: 1.2;
   letter-spacing: -0.005em;
   margin-bottom: 0.4em;
 }
 
 h2 {
   border-top: 1px solid var(--border);
-  font-size: 1.4rem;
+  font-size: 1.15rem;
+  font-weight: 600;
   padding-top: 1rem;
 }
 
 h3 {
-  font-size: 1.17rem;
+  font-size: 1.05rem;
 }
 
 h4,
@@ -439,7 +537,7 @@ h2[id^="related"] + ul > li {
 
 .footnotes::before {
   color: var(--muted);
-  content: "Notes";
+  content: "Footnotes";
   display: block;
   font-family: var(--sans);
   font-size: 0.8rem;
@@ -568,4 +666,44 @@ h2[id^="related"] + ul > li {
   footer {
     border-top: 1px solid #999;
   }
+}
+
+/* DisclosureWorks wordmark and section label in the header. */
+
+.site-title {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.6rem;
+}
+
+.site-wordmark {
+  height: 1.6rem;
+  width: auto;
+}
+
+.site-section {
+  border-left: 1px solid var(--border);
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  padding-left: 0.6rem;
+}
+
+/* Current assessment blocks only; colors inherit the light/dark palette. */
+blockquote.assessment > p > strong:first-child {
+  display: block;
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  margin-bottom: 0.25rem;
+}
+blockquote.assessment > p:first-child > strong { font-size: 1rem; }
+
+/* Screen tables share a centered, horizontally scrollable viewport. */
+@media screen {
+  main table { display: block; width: fit-content; max-width: 80%;
+    margin-inline: auto; overflow-x: auto; }
+}
+@media screen and (max-width: 48rem) {
+  main table { max-width: 100%; }
 }
